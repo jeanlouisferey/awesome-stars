@@ -5,929 +5,391 @@
 
 ## Contents
 
-- [3d](#3d)
-- [ai](#ai)
-- [angular](#angular)
-- [ansible](#ansible)
-- [api](#api)
-- [automation](#automation)
-- [awesome](#awesome)
-- [awesome-list](#awesome-list)
-- [aws](#aws)
-- [azure](#azure)
-- [bash](#bash)
-- [cli](#cli)
-- [code](#code)
-- [code-review](#code-review)
-- [compiler](#compiler)
-- [config](#config)
-- [data](#data)
-- [data-analysis](#data-analysis)
-- [data-visualization](#data-visualization)
-- [database](#database)
-- [deployment](#deployment)
-- [devops](#devops)
-- [django](#django)
-- [docker](#docker)
-- [documentation](#documentation)
-- [emoji](#emoji)
-- [express](#express)
-- [framework](#framework)
-- [git](#git)
-- [github](#github)
-- [github-api](#github-api)
-- [go](#go)
-- [golang](#golang)
-- [google](#google)
-- [hacking](#hacking)
-- [hacktoberfest](#hacktoberfest)
-- [html](#html)
-- [http](#http)
-- [iot](#iot)
-- [java](#java)
-- [javascript](#javascript)
-- [json](#json)
-- [kubernetes](#kubernetes)
-- [language](#language)
-- [learning](#learning)
-- [library](#library)
-- [linux](#linux)
-- [machine-learning](#machine-learning)
-- [macos](#macos)
-- [markdown](#markdown)
-- [mongodb](#mongodb)
-- [monitoring](#monitoring)
-- [mysql](#mysql)
-- [nlp](#nlp)
-- [node](#node)
-- [nodejs](#nodejs)
-- [nosql](#nosql)
-- [open-source](#open-source)
-- [osint](#osint)
-- [others](#others)
-- [p2p](#p2p)
-- [penetration-testing](#penetration-testing)
-- [postgresql](#postgresql)
-- [programming](#programming)
-- [project-management](#project-management)
-- [python](#python)
-- [python3](#python3)
-- [raspberry-pi](#raspberry-pi)
-- [react](#react)
-- [rest-api](#rest-api)
-- [rust](#rust)
-- [sass](#sass)
-- [scala](#scala)
-- [security](#security)
-- [self-hosted](#self-hosted)
-- [server](#server)
-- [serverless](#serverless)
-- [shell](#shell)
-- [software](#software)
-- [spring-boot](#spring-boot)
-- [sql](#sql)
-- [statistics](#statistics)
-- [tensorflow](#tensorflow)
-- [terminal](#terminal)
-- [terraform](#terraform)
-- [testing](#testing)
-- [twitter](#twitter)
-- [ubuntu](#ubuntu)
-- [vagrant](#vagrant)
-- [vuejs](#vuejs)
-- [web](#web)
-- [web-components](#web-components)
-- [webapp](#webapp)
-- [windows](#windows)
+- [C](#c)
+- [C#](#c#)
+- [C++](#c++)
+- [CSS](#css)
+- [Dockerfile](#dockerfile)
+- [Go](#go)
+- [HCL](#hcl)
+- [HTML](#html)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [Jinja](#jinja)
+- [Lua](#lua)
+- [Others](#others)
+- [PHP](#php)
+- [Perl](#perl)
+- [PowerShell](#powershell)
+- [Python](#python)
+- [Ruby](#ruby)
+- [Rust](#rust)
+- [SCSS](#scss)
+- [Scala](#scala)
+- [Shell](#shell)
+- [Smarty](#smarty)
+- [Starlark](#starlark)
+- [TypeScript](#typescript)
+- [V](#v)
+- [Vue](#vue)
 
-## 3d 
+## C 
 
-- [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
+- [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
+- [cisco-system-traffic-generator/trex-core](https://github.com/cisco-system-traffic-generator/trex-core) - trex-core site
+- [falcosecurity-retire/falco-kubernetes-workshop](https://github.com/falcosecurity-retire/falco-kubernetes-workshop) - A lightweight workshop build on the shoulders of giants.
 
-## ai 
+## C# # 
 
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [Orange-OpenSource/keepass-vault-sync-plugin](https://github.com/Orange-OpenSource/keepass-vault-sync-plugin) - Keepass plugin to synchronize Hashicorp Vault secrets
 
-## angular 
+## C++ 
 
-- [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax), compressed file
 
-## ansible 
+## CSS 
 
-- [Cyclenerd/google-cloud-shells-on-demand](https://github.com/Cyclenerd/google-cloud-shells-on-demand) - ▶️ Shells on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
-- [claranet/ansible-gendoc](https://github.com/claranet/ansible-gendoc) - Auto generate Ansible documentation
-- [telekom-mms/ansible-bad-and-good-practices](https://github.com/telekom-mms/ansible-bad-and-good-practices) - A collection of good and bad Ansible code examples
-- [robertdebock/ansible-role-code](https://github.com/robertdebock/ansible-role-code) - Install visual studio code on your system.
-- [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
-- [thegeeklab/ansible-later](https://github.com/thegeeklab/ansible-later) - Another best practice scanner for Ansible roles and playbooks
-- [IronTooch/AnsibleSnippets-VSCode](https://github.com/IronTooch/AnsibleSnippets-VSCode) - A collection of common ansible snippet patterns for use with VS Code
-- [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
-- [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup
-- [teslamotors/ansible_puller](https://github.com/teslamotors/ansible_puller) - Ansible daemon for massively-scaleable Ansible
-- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-- [adammck/terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
-- [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
-- [githubixx/ansible-role-harden-linux](https://github.com/githubixx/ansible-role-harden-linux) - Ansible role for hardening Linux
-- [haidaraM/ansible-playbook-grapher](https://github.com/haidaraM/ansible-playbook-grapher) - A command line tool to create a graph representing your Ansible playbook tasks and roles
-- [ansible-community/ansible-bender](https://github.com/ansible-community/ansible-bender) - ansible-playbook + buildah = a sweet container image
-- [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
+- [TheFern2/markdown-book](https://github.com/TheFern2/markdown-book) - Sample markdown book with pandoc
+- [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
 
-## api 
+## Dockerfile 
 
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [BBVA/kapow](https://github.com/BBVA/kapow) - Kapow! If you can script it, you can HTTP it.
-- [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
-- [FKLC/AnyAPI](https://github.com/FKLC/AnyAPI) - AnyAPI is a library that helps you to write any API wrapper with ease and in pythonic way.
+- [vojeroen/lemonldap-ng-kubernetes](https://github.com/vojeroen/lemonldap-ng-kubernetes) - LemonLDAP::NG for Kubernetes
 
-## automation 
-
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [Cyclenerd/google-cloud-shells-on-demand](https://github.com/Cyclenerd/google-cloud-shells-on-demand) - ▶️ Shells on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
-- [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
-- [thegeeklab/ansible-later](https://github.com/thegeeklab/ansible-later) - Another best practice scanner for Ansible roles and playbooks
-- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
-- [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
-
-## awesome 
-
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project)
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
-- [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
-- [guardrailsio/awesome-python-security](https://github.com/guardrailsio/awesome-python-security) - Awesome Python Security resources 🕶🐍🔐
-- [networktocode/awesome-network-automation](https://github.com/networktocode/awesome-network-automation) - Curated Awesome list about Network Automation
-
-## awesome-list 
-
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project)
-- [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [guardrailsio/awesome-python-security](https://github.com/guardrailsio/awesome-python-security) - Awesome Python Security resources 🕶🐍🔐
-- [networktocode/awesome-network-automation](https://github.com/networktocode/awesome-network-automation) - Curated Awesome list about Network Automation
-
-## aws 
-
-- [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
-- [aquasecurity/cloud-security-remediation-guides](https://github.com/aquasecurity/cloud-security-remediation-guides) - Security Remediation Guides
-- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
-- [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
-- [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for open S3 buckets and dump the contents
-- [OpenCSPM/opencspm](https://github.com/OpenCSPM/opencspm) - Open Cloud Security Posture Management Engine
-- [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
-- [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-- [tmobile/pacbot](https://github.com/tmobile/pacbot) - PacBot (Policy as Code Bot)
-- [tmobile/t-vault](https://github.com/tmobile/t-vault) - Simplified secrets management solution
-- [nccgroup/PMapper](https://github.com/nccgroup/PMapper) - A tool for quickly evaluating IAM permissions in AWS.
-- [udhos/lavalake](https://github.com/udhos/lavalake) - lavalake - Manage security groups uniformly across multiple cloud providers.
-
-## azure 
-
-- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
-- [aquasecurity/cloud-security-remediation-guides](https://github.com/aquasecurity/cloud-security-remediation-guides) - Security Remediation Guides
-- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
-- [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
-- [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
-- [udhos/lavalake](https://github.com/udhos/lavalake) - lavalake - Manage security groups uniformly across multiple cloud providers.
-
-## bash 
-
-- [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
-- [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
-- [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-
-## cli 
+## Go 
 
 - [moul/quicssh](https://github.com/moul/quicssh) - SSH over QUIC
-- [humblepenguinn/envio](https://github.com/humblepenguinn/envio) - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
-- [jreisinger/checkip](https://github.com/jreisinger/checkip) - Get (security) info about IP addresses
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-- [kriskbx/gitlab-time-tracker](https://github.com/kriskbx/gitlab-time-tracker) - 🦊🕘 A command line interface for GitLab's time tracking feature.
-- [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) - 🏗 Specialized configuration as a code tool for GitLab
-- [mykolaharmash/git-jump](https://github.com/mykolaharmash/git-jump) - Improved navigation between Git branches.
-- [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
-- [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
-- [nbeguier/certificate_easy](https://github.com/nbeguier/certificate_easy) - Certificate reader and creater via CLI
-- [ovh/venom](https://github.com/ovh/venom) - 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
-- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - Automate Kubernetes Configuration Editing
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-
-## code 
-
-- [robertdebock/ansible-role-code](https://github.com/robertdebock/ansible-role-code) - Install visual studio code on your system.
-
-## code-review 
-
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
-
-## compiler 
-
-- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
-
-## config 
-
-- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
-- [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
-
-## data 
-
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
-
-## data-analysis 
-
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
-
-## data-visualization 
-
-- [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
-
-## database 
-
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python Applications
-
-## deployment 
-
-- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - Automate Kubernetes Configuration Editing
-
-## devops 
-
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source eBPF-based observability tool that turns telemetry data into actionable insights, helping you identify and resolve application issues quickly
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project)
-- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
-- [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
-- [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
-- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
-- [loft-sh/kiosk](https://github.com/loft-sh/kiosk) - kiosk 🏢 Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning
-- [jdumars/agileops](https://github.com/jdumars/agileops) - The Agile Operations methodology
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-- [mitogen-hq/mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python
-- [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-- [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
-- [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
-
-## django 
-
-- [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
-
-## docker 
-
-- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ 
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
-- [kriskbx/gitlab-time-tracker](https://github.com/kriskbx/gitlab-time-tracker) - 🦊🕘 A command line interface for GitLab's time tracking feature.
-- [pawelrychlik/jira-dependency-graph](https://github.com/pawelrychlik/jira-dependency-graph) - Graph visualizer for JIRA tickets' dependencies
-- [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
-- [weaveworks/footloose](https://github.com/weaveworks/footloose) - Container Machines - Containers that look like Virtual Machines
-- [tmobile/t-vault](https://github.com/tmobile/t-vault) - Simplified secrets management solution
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
-- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
-- [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
-
-## documentation 
-
-- [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
-- [zachhannum/mkdocs-autolinks-plugin](https://github.com/zachhannum/mkdocs-autolinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
-- [Neoteroi/mkdocs-plugins](https://github.com/Neoteroi/mkdocs-plugins) - Plugins for MkDocs.
-- [orzih/mkdocs-with-pdf](https://github.com/orzih/mkdocs-with-pdf) - Generate a single PDF file from MkDocs repository.
-- [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-
-## emoji 
-
-- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-
-## express 
-
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-
-## framework 
-
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
-
-## git 
-
-- [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [mykolaharmash/git-jump](https://github.com/mykolaharmash/git-jump) - Improved navigation between Git branches.
-- [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
-
-## github 
-
-- [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
-
-## github-api 
-
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
-
-## go 
-
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [tdabasinskas/terraform-provider-backstage](https://github.com/tdabasinskas/terraform-provider-backstage) - Backstage provider for Terraform
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
-- [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
-- [jreisinger/checkip](https://github.com/jreisinger/checkip) - Get (security) info about IP addresses
-- [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
-- [adammck/terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
-- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
-- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [udhos/lavalake](https://github.com/udhos/lavalake) - lavalake - Manage security groups uniformly across multiple cloud providers.
-- [Caiyeon/goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
-- [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
-- [canonical/lxd](https://github.com/canonical/lxd) - Powerful system container and virtual machine manager
-
-## golang 
-
+- [toboshii/hajimari](https://github.com/toboshii/hajimari) - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
+- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [tdabasinskas/terraform-provider-backstage](https://github.com/tdabasinskas/terraform-provider-backstage) - Backstage provider for Terraform
+- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [hlandau/acmetool](https://github.com/hlandau/acmetool) - :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
+- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source eBPF-based observability tool that turns telemetry data into actionable insights, helping you identify and resolve application issues quickly
+- [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
+- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) - The missing reverse proxy for ssh scp
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
+- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
 - [devops-works/binenv](https://github.com/devops-works/binenv) - One binary to rule them all. Manage all those pesky binaries (kubectl, helm, terraform, ...) easily.
+- [ahmetb/RectangleWin](https://github.com/ahmetb/RectangleWin) - Hotkey-driven window snapping to edges and corners using hotkeys on Windows 10/11.
+- [opentelekomcloud/terraform-provider-opentelekomcloud](https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud) - Terraform OpenTelekomCloud provider
+- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. [CNCF Sandbox Project]
 - [jreisinger/checkip](https://github.com/jreisinger/checkip) - Get (security) info about IP addresses
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
+- [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
+- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
+- [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup
+- [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
+- [skupperproject/skupper](https://github.com/skupperproject/skupper) - Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication.
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+- [seknox/trasa](https://github.com/seknox/trasa) - Zero Trust Service Access
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [box/kube-iptables-tailer](https://github.com/box/kube-iptables-tailer) - A service for better network visibility for your Kubernetes clusters.
-- [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
-- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go
-- [udhos/lavalake](https://github.com/udhos/lavalake) - lavalake - Manage security groups uniformly across multiple cloud providers.
-- [Caiyeon/goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
-
-## google 
-
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
-
-## hacking 
-
-- [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
-
-## hacktoberfest 
-
-- [drodil/backstage-plugin-toolbox](https://github.com/drodil/backstage-plugin-toolbox) - Most commonly used developer tools within Backstage
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [telekom-mms/ansible-bad-and-good-practices](https://github.com/telekom-mms/ansible-bad-and-good-practices) - A collection of good and bad Ansible code examples
-- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. [CNCF Sandbox Project]
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
-- [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) - 🏗 Specialized configuration as a code tool for GitLab
-- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
+- [openshift/enhancements](https://github.com/openshift/enhancements) - Enhancements tracking repository for OKD
 - [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
-- [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
-- [ovh/venom](https://github.com/ovh/venom) - 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
-- [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-- [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
-- [kyhau/ssllabs-scan](https://github.com/kyhau/ssllabs-scan) - A simple Python script that calls SSL Labs API to do SSL testings on servers and create a report in html.
-- [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
-- [tmbo/questionary](https://github.com/tmbo/questionary) - Python library to build pretty command line user prompts ✨Easy to use multi-select lists, confirmations, free text prompts ...
-- [canonical/lxd](https://github.com/canonical/lxd) - Powerful system container and virtual machine manager
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
-
-## html 
-
-- [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
-
-## http 
-
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [BBVA/kapow](https://github.com/BBVA/kapow) - Kapow! If you can script it, you can HTTP it.
-- [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
-- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-
-## iot 
-
-- [Cyclenerd/google-cloud-shells-on-demand](https://github.com/Cyclenerd/google-cloud-shells-on-demand) - ▶️ Shells on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
-
-## java 
-
-- [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
-- [tmobile/pacbot](https://github.com/tmobile/pacbot) - PacBot (Policy as Code Bot)
-
-## javascript 
-
-- [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
-
-## json 
-
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-
-## kubernetes 
-
-- [toboshii/hajimari](https://github.com/toboshii/hajimari) - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
-- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
-- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
-- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source eBPF-based observability tool that turns telemetry data into actionable insights, helping you identify and resolve application issues quickly
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
-- [obeyler/Formation-K8S](https://github.com/obeyler/Formation-K8S) - Formation K8S avec exercices et labs
-- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. [CNCF Sandbox Project]
-- [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project)
-- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
-- [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
-- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
-- [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
-- [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
-- [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
-- [OpenCSPM/opencspm](https://github.com/OpenCSPM/opencspm) - Open Cloud Security Posture Management Engine
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
+- [mkimuram/k8sviz](https://github.com/mkimuram/k8sviz) - Generate Kubernetes architecture diagrams from the actual state in a namespace
 - [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
+- [adammck/terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
+- [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) - This repository has be archived and moved to the new repository https://github.com/dragonflyoss/Dragonfly2.
 - [box/kube-iptables-tailer](https://github.com/box/kube-iptables-tailer) - A service for better network visibility for your Kubernetes clusters.
-- [cyberark/KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
+- [weaveworks/footloose](https://github.com/weaveworks/footloose) - Container Machines - Containers that look like Virtual Machines
 - [loft-sh/kiosk](https://github.com/loft-sh/kiosk) - kiosk 🏢 Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning
-- [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
+- [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
+- [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
+- [naggie/dsnet](https://github.com/naggie/dsnet) - FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+- [Telefonica/prometheus-kafka-adapter](https://github.com/Telefonica/prometheus-kafka-adapter) - Use Kafka as a remote storage database for Prometheus (remote write only)
+- [ovh/venom](https://github.com/ovh/venom) - 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
 - [helm/chartmuseum](https://github.com/helm/chartmuseum) - helm chart repository server
 - [giantswarm/net-exporter](https://github.com/giantswarm/net-exporter) - A Prometheus exporter for exposing network information in Kubernetes clusters
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - Automate Kubernetes Configuration Editing
 - [fluxcd/flux](https://github.com/fluxcd/flux) - Successor: https://github.com/fluxcd/flux2
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-- [alexbrand/gangway-dex-tutorial](https://github.com/alexbrand/gangway-dex-tutorial) - Using Gangway and Dex for authenticating with your Kubernetes cluster
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
+- [hashicorp/go-discover](https://github.com/hashicorp/go-discover) - Discover nodes in cloud environments
+- [vmware-archive/gangway](https://github.com/vmware-archive/gangway) - An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster.
+- [genevieve/leftovers](https://github.com/genevieve/leftovers) - Go cli & library for cleaning up orphaned IAAS resources.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
+- [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go
+- [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
+- [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
+- [udhos/lavalake](https://github.com/udhos/lavalake) - lavalake - Manage security groups uniformly across multiple cloud providers.
 - [kubicorn/kubicorn](https://github.com/kubicorn/kubicorn) - Simple, cloud native infrastructure for Kubernetes.
-- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
+- [canonical/lxd](https://github.com/canonical/lxd) - Powerful system container and virtual machine manager
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 
-## language 
-
-- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
-
-## learning 
-
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-
-## library 
-
-- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python Applications
-
-## linux 
+## HCL 
 
 - [Cyclenerd/google-cloud-shells-on-demand](https://github.com/Cyclenerd/google-cloud-shells-on-demand) - ▶️ Shells on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
+- [stackrox/Kubernetes_Security_Specialist_Study_Guide](https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide) - 
+
+## HTML 
+
+- [orzih/mkdocs-with-pdf](https://github.com/orzih/mkdocs-with-pdf) - Generate a single PDF file from MkDocs repository.
+- [cncf/glossary](https://github.com/cncf/glossary) - The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://g
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
+- [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
+
+## Java 
+
+- [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
+- [tmobile/pacbot](https://github.com/tmobile/pacbot) - PacBot (Policy as Code Bot)
+- [tmobile/t-vault](https://github.com/tmobile/t-vault) - Simplified secrets management solution
+
+## JavaScript 
+
+- [RoadieHQ/sample-service](https://github.com/RoadieHQ/sample-service) - A sample service for testing build tools, testing Backstage etc.
+- [RoadieHQ/backstage-entity-validator](https://github.com/RoadieHQ/backstage-entity-validator) - Validate properties and well known annotations in your Backstage catalog-info.yaml files.
+- [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
+- [lukechilds/reverse-shell](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [kriskbx/gitlab-time-tracker](https://github.com/kriskbx/gitlab-time-tracker) - 🦊🕘 A command line interface for GitLab's time tracking feature.
+- [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
+- [dreampuf/GraphvizOnline](https://github.com/dreampuf/GraphvizOnline) - Let's Graphviz it online
+- [chris-morgan/tty-player](https://github.com/chris-morgan/tty-player) - &lt;tty-player&gt;: &lt;video&gt;, but for ttyrec scripts
+- [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
+- [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
+- [Freeboard/freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
+- [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
+- [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
+
+## Jinja 
+
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
-- [aker-gateway/Aker](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver
-- [naggie/dsnet](https://github.com/naggie/dsnet) - FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+- [redhat-cop/agnosticd](https://github.com/redhat-cop/agnosticd) - AgnosticD - Ansible Deployer for multiple Cloud Deployers
 - [githubixx/ansible-role-harden-linux](https://github.com/githubixx/ansible-role-harden-linux) - Ansible role for hardening Linux
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
+- [openstack/ansible-hardening](https://github.com/openstack/ansible-hardening) - Ansible role for security hardening. Mirror of code maintained at opendev.org.
+- [robertdebock/ansible-generator](https://github.com/robertdebock/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role.
 
-## machine-learning 
+## Lua 
 
-- [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
+- [zevv/lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
+
+## Others 
+
+- [backstage/community](https://github.com/backstage/community) - All about the Backstage community (Meetups, Sessions etc.)
+- [telekom-mms/ansible-bad-and-good-practices](https://github.com/telekom-mms/ansible-bad-and-good-practices) - A collection of good and bad Ansible code examples
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
+- [robertdebock/ansible-role-code](https://github.com/robertdebock/ansible-role-code) - Install visual studio code on your system.
+- [obeyler/Formation-K8S](https://github.com/obeyler/Formation-K8S) - Formation K8S avec exercices et labs
 - [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project)
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-
-## macos 
-
+- [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices
+- [aquasecurity/cloud-security-remediation-guides](https://github.com/aquasecurity/cloud-security-remediation-guides) - Security Remediation Guides
+- [tisseurdetoile/pub](https://github.com/tisseurdetoile/pub) - public stuff / template for pomodoro / task management / compact Calendar
+- [elastic/ecs-logging](https://github.com/elastic/ecs-logging) - ECS Logging - Common resources and issues for the language specific ECS loggers
+- [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools
+- [StenlyTU/K8s-training-official](https://github.com/StenlyTU/K8s-training-official) - The goal of this tutorial is to give you a good understanding of Kubernetes.
+- [jdumars/agileops](https://github.com/jdumars/agileops) - The Agile Operations methodology
+- [jdumars/cncorr](https://github.com/jdumars/cncorr) - Cloud Native Organizational Readiness Review
+- [opentelekomcloud/ansible-role-bastion](https://github.com/opentelekomcloud/ansible-role-bastion) - Ansible role to put a bastion server in the requested VPC
+- [f5devcentral/ansible-role-backup_config](https://github.com/f5devcentral/ansible-role-backup_config) - Ansible role for backup of running configurations from F5 devices
+- [ansible-collections/overview](https://github.com/ansible-collections/overview) - Collections overview, how to request a namespace
+- [krisnova/falco-rules](https://github.com/krisnova/falco-rules) - My Falco Rules
+- [alexbrand/gangway-dex-tutorial](https://github.com/alexbrand/gangway-dex-tutorial) - Using Gangway and Dex for authenticating with your Kubernetes cluster
+- [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
+- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [guardrailsio/awesome-python-security](https://github.com/guardrailsio/awesome-python-security) - Awesome Python Security resources 🕶🐍🔐
+- [openstack-archive/ospurge](https://github.com/openstack-archive/ospurge) - MOVED: now at https://opendev.org/x/ospurge
+- [ksator/MQTT_hello_world](https://github.com/ksator/MQTT_hello_world) - 
+- [networktocode/awesome-network-automation](https://github.com/networktocode/awesome-network-automation) - Curated Awesome list about Network Automation
+- [stackhpc/ansible-role-os-shade](https://github.com/stackhpc/ansible-role-os-shade) - Ansible role to install python package shade
 
-## markdown 
+## PHP 
+
+- [monpremierctf/mon_premier_ctf](https://github.com/monpremierctf/mon_premier_ctf) - CTF Challenges pour débutants
+
+## Perl 
+
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses.
+
+## PowerShell 
+
+- [IronTooch/AnsibleSnippets-VSCode](https://github.com/IronTooch/AnsibleSnippets-VSCode) - A collection of common ansible snippet patterns for use with VS Code
+
+## Python 
 
 - [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
-- [lukasgeiter/mkdocs-awesome-pages-plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin) - An MkDocs plugin that simplifies configuring page titles and their order
-- [zachhannum/mkdocs-autolinks-plugin](https://github.com/zachhannum/mkdocs-autolinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
-- [Neoteroi/mkdocs-plugins](https://github.com/Neoteroi/mkdocs-plugins) - Plugins for MkDocs.
-- [orzih/mkdocs-with-pdf](https://github.com/orzih/mkdocs-with-pdf) - Generate a single PDF file from MkDocs repository.
-- [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
-- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
-- [kumahq/kuma-website](https://github.com/kumahq/kuma-website) - 🐻 The official website for Kuma, the control plane for modern service connectivity.
-
-## mongodb 
-
-- [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
-
-## monitoring 
-
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source eBPF-based observability tool that turns telemetry data into actionable insights, helping you identify and resolve application issues quickly
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
-- [dora-team/fourkeys](https://github.com/dora-team/fourkeys) - Platform for monitoring the four key software delivery metrics of software delivery
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
-- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
-- [weaveworks/grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-
-## mysql 
-
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that needs no client-side software
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-
-## nlp 
-
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
-
-## node 
-
-- [kriskbx/gitlab-time-tracker](https://github.com/kriskbx/gitlab-time-tracker) - 🦊🕘 A command line interface for GitLab's time tracking feature.
-- [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
-
-## nodejs 
-
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [kriskbx/gitlab-time-tracker](https://github.com/kriskbx/gitlab-time-tracker) - 🦊🕘 A command line interface for GitLab's time tracking feature.
-
-## nosql 
-
-- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python Applications
-
-## open-source 
-
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-
-## osint 
-
-- [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
-
-## others 
-
-- [johanneswuerbach/backstage-plugin-techdocs-addon-mermaid](https://github.com/johanneswuerbach/backstage-plugin-techdocs-addon-mermaid) - Backstage TechDocs Mermaid Addon
 - [oprypin/mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) - MkDocs plugin to allow placing mkdocs.yml in the same directory as documentation
-- [backstage/community](https://github.com/backstage/community) - All about the Backstage community (Meetups, Sessions etc.)
+- [lukasgeiter/mkdocs-awesome-pages-plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin) - An MkDocs plugin that simplifies configuring page titles and their order
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [encode/httpcore](https://github.com/encode/httpcore) - A minimal HTTP client. ⚙️
-- [Parsifal-M/backstage-gitlab-dora-plugin](https://github.com/Parsifal-M/backstage-gitlab-dora-plugin) - Dora metrics from Gitlab
-- [immobiliare/backstage-plugin-gitlab](https://github.com/immobiliare/backstage-plugin-gitlab) - Backstage plugins to interact with GitLab
-- [RoadieHQ/sample-service](https://github.com/RoadieHQ/sample-service) - A sample service for testing build tools, testing Backstage etc.
-- [Oriflame/backstage-plugins](https://github.com/Oriflame/backstage-plugins) - Oriflame Backstage plugins
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ 
+- [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
 - [sprin/markdown-inline-graphviz](https://github.com/sprin/markdown-inline-graphviz) - Render inline graphs with Markdown and Graphviz
-- [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - 
-- [keptn-sandbox/backstage-plugin-keptn](https://github.com/keptn-sandbox/backstage-plugin-keptn) - Backstage plugin for Keptn
-- [RoadieHQ/backstage-entity-validator](https://github.com/RoadieHQ/backstage-entity-validator) - Validate properties and well known annotations in your Backstage catalog-info.yaml files.
-- [drodil/backstage-plugin-qeta](https://github.com/drodil/backstage-plugin-qeta) - Backstage.io plugin for Q&A
-- [K-Phoen/backstage-plugin-announcements](https://github.com/K-Phoen/backstage-plugin-announcements) - Announcements plugin for Backstage
-- [cloud-carbon-footprint/ccf-backstage-plugin](https://github.com/cloud-carbon-footprint/ccf-backstage-plugin) - The CCF Backstage Plugin is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage that is meant to be consumed as a plugin into a Backstage app
-- [thefrontside/playhouse](https://github.com/thefrontside/playhouse) - https://backstage.frontside.services/
-- [terrastruct/TALA](https://github.com/terrastruct/TALA) - A diagram layout engine designed specifically for software architecture diagrams
+- [zachhannum/mkdocs-autolinks-plugin](https://github.com/zachhannum/mkdocs-autolinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
 - [fralau/mkdocs-mermaid2-plugin](https://github.com/fralau/mkdocs-mermaid2-plugin) - A Mermaid graphs plugin for mkdocs
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of images.
+- [Neoteroi/mkdocs-plugins](https://github.com/Neoteroi/mkdocs-plugins) - Plugins for MkDocs.
 - [teramako/playbook2uml](https://github.com/teramako/playbook2uml) - Create a PlantUML/Mermaid.js State Diagram from Ansible-Playbook
-- [hlandau/acmetool](https://github.com/hlandau/acmetool) - :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt)
-- [TheFern2/markdown-book](https://github.com/TheFern2/markdown-book) - Sample markdown book with pandoc
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [blueswen/mkdocs-glightbox](https://github.com/blueswen/mkdocs-glightbox) - A MkDocs plugin supports image lightbox (zoom effect) with GLightbox.
 - [soulless-viewer/mkdocs-video](https://github.com/soulless-viewer/mkdocs-video) - MkDocs Video plugin
-- [ansible/event-driven-ansible](https://github.com/ansible/event-driven-ansible) - 
-- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
-- [sspreitzer/helm-ara](https://github.com/sspreitzer/helm-ara) - ARA Records Ansible Helm Chart
-- [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
-- [ultrabug/mkdocs-static-i18n](https://github.com/ultrabug/mkdocs-static-i18n) - MkDocs i18n plugin using static translation markdown files
-- [lukechilds/reverse-shell](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service
-- [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
-- [opentelekomcloud/terraform-provider-opentelekomcloud](https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud) - Terraform OpenTelekomCloud provider
-- [roles-ansible/ansible_role_restic](https://github.com/roles-ansible/ansible_role_restic) - Ansible role to deploy and configure restic
-- [anxstj/ansible-create-roles-overview](https://github.com/anxstj/ansible-create-roles-overview) - Create a roles overview page for all Ansible roles/playbooks in Gitlab
-- [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
-- [cncf/glossary](https://github.com/cncf/glossary) - The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://g
-- [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
-- [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
-- [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
-- [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices
-- [Matty9191/ssl-cert-check](https://github.com/Matty9191/ssl-cert-check) - Send notifications when SSL certificates are about to expire.
-- [tisseurdetoile/pub](https://github.com/tisseurdetoile/pub) - public stuff / template for pomodoro / task management / compact Calendar
-- [zevv/lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
-- [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
-- [elastic/ecs-logging](https://github.com/elastic/ecs-logging) - ECS Logging - Common resources and issues for the language specific ECS loggers
-- [elastic/ecs-mapper](https://github.com/elastic/ecs-mapper) - Translate an ECS mapping CSV to starter pipelines for Beats, Elasticsearch or Logstash
-- [bderenzo/tinystatus](https://github.com/bderenzo/tinystatus) - Static status page generator
-- [skupperproject/skupper](https://github.com/skupperproject/skupper) - Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication.
-- [lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
-- [flesueur/mi-lxc](https://github.com/flesueur/mi-lxc) - Mini-Internet using LXC for practical works
-- [StenlyTU/K8s-training-official](https://github.com/StenlyTU/K8s-training-official) - The goal of this tutorial is to give you a good understanding of Kubernetes.
-- [seknox/trasa](https://github.com/seknox/trasa) - Zero Trust Service Access
-- [stackrox/Kubernetes_Security_Specialist_Study_Guide](https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide) - 
-- [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
-- [openshift/enhancements](https://github.com/openshift/enhancements) - Enhancements tracking repository for OKD
-- [mkimuram/k8sviz](https://github.com/mkimuram/k8sviz) - Generate Kubernetes architecture diagrams from the actual state in a namespace
-- [dreampuf/GraphvizOnline](https://github.com/dreampuf/GraphvizOnline) - Let's Graphviz it online
-- [chris-morgan/tty-player](https://github.com/chris-morgan/tty-player) - &lt;tty-player&gt;: &lt;video&gt;, but for ttyrec scripts
-- [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
-- [redhat-cop/agnosticd](https://github.com/redhat-cop/agnosticd) - AgnosticD - Ansible Deployer for multiple Cloud Deployers
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax), compressed file
-- [jdumars/cncorr](https://github.com/jdumars/cncorr) - Cloud Native Organizational Readiness Review
-- [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-- [cisco-system-traffic-generator/trex-core](https://github.com/cisco-system-traffic-generator/trex-core) - trex-core site
-- [Telefonica/prometheus-kafka-adapter](https://github.com/Telefonica/prometheus-kafka-adapter) - Use Kafka as a remote storage database for Prometheus (remote write only)
-- [arthepsy/ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
-- [opentelekomcloud/ansible-role-bastion](https://github.com/opentelekomcloud/ansible-role-bastion) - Ansible role to put a bastion server in the requested VPC
-- [ytti/oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
-- [kabisa/k8s-workshop-in-a-box](https://github.com/kabisa/k8s-workshop-in-a-box) - Tool for "one click" Kubernetes workshop setups
-- [openstack/ansible-hardening](https://github.com/openstack/ansible-hardening) - Ansible role for security hardening. Mirror of code maintained at opendev.org.
-- [Orange-OpenSource/keepass-vault-sync-plugin](https://github.com/Orange-OpenSource/keepass-vault-sync-plugin) - Keepass plugin to synchronize Hashicorp Vault secrets
-- [f5devcentral/ansible-role-backup_config](https://github.com/f5devcentral/ansible-role-backup_config) - Ansible role for backup of running configurations from F5 devices
-- [ansible-collections/overview](https://github.com/ansible-collections/overview) - Collections overview, how to request a namespace
-- [apoletics/ansible-network-check](https://github.com/apoletics/ansible-network-check) - ansible-network-check
-- [krisnova/falco-rules](https://github.com/krisnova/falco-rules) - My Falco Rules
-- [AssuranceMaladieSec/CertStreamMonitor](https://github.com/AssuranceMaladieSec/CertStreamMonitor) - Monitor certificates generated for specific domain strings and associated, store data into sqlite3 database, alert you when sites come online.
-- [robertdebock/ansible-generator](https://github.com/robertdebock/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role.
-- [cloudflare/flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
-- [Showmax/grafana-dashboards-generator](https://github.com/Showmax/grafana-dashboards-generator) - Generate Grafana dashboards from configuration
-- [davidB/kubectl-view-allocations](https://github.com/davidB/kubectl-view-allocations) - kubectl plugin to list allocations (cpu, memory, gpu,... X utilization, requested, limit, allocatable,...)
-- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
-- [falcosecurity-retire/falco-kubernetes-workshop](https://github.com/falcosecurity-retire/falco-kubernetes-workshop) - A lightweight workshop build on the shoulders of giants.
-- [monpremierctf/mon_premier_ctf](https://github.com/monpremierctf/mon_premier_ctf) - CTF Challenges pour débutants
-- [particledecay/ansible-jsonpatch](https://github.com/particledecay/ansible-jsonpatch) - An Ansible module for patching JSON files
-- [hashicorp/go-discover](https://github.com/hashicorp/go-discover) - Discover nodes in cloud environments
-- [Freeboard/freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
-- [jwmatthews/example_ansible_aws](https://github.com/jwmatthews/example_ansible_aws) - Example Playbooks for working with Amazon Web Services
-- [vojeroen/lemonldap-ng-kubernetes](https://github.com/vojeroen/lemonldap-ng-kubernetes) - LemonLDAP::NG for Kubernetes
-- [vmware-archive/gangway](https://github.com/vmware-archive/gangway) - An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster.
-- [genevieve/leftovers](https://github.com/genevieve/leftovers) - Go cli & library for cleaning up orphaned IAAS resources.
-- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
-- [rembik/ansible-role-letsencrypt](https://github.com/rembik/ansible-role-letsencrypt) - Ansible Role - Let's Encrypt private networks
-- [ansible/ansible-runner-service](https://github.com/ansible/ansible-runner-service) - 
-- [moul/rdv-titre-paris](https://github.com/moul/rdv-titre-paris) - 
-- [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
-- [jazzband/tablib](https://github.com/jazzband/tablib) - Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.
-- [python-diamond/Diamond](https://github.com/python-diamond/Diamond) - Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it feat
-- [opentelekomcloud/ansible-otc](https://github.com/opentelekomcloud/ansible-otc) - (Obsolete) A bunch of Ansible roles to manage resources on Open Telekom Cloud
-- [RHsyseng/day-two-openstack](https://github.com/RHsyseng/day-two-openstack) - a collection of ansible playbooks and artifacts for day 2 openstack tasks
-- [openstack-archive/ospurge](https://github.com/openstack-archive/ospurge) - MOVED: now at https://opendev.org/x/ospurge
-- [ksator/MQTT_hello_world](https://github.com/ksator/MQTT_hello_world) - 
-- [stackhpc/ansible-role-os-shade](https://github.com/stackhpc/ansible-role-os-shade) - Ansible role to install python package shade
-- [mqtt-tools/mqttwarn](https://github.com/mqtt-tools/mqttwarn) - A highly configurable MQTT message router, where the routing targets are notification plugins, primarily written in Python.
-- [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
-
-## p2p 
-
-- [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) - This repository has be archived and moved to the new repository https://github.com/dragonflyoss/Dragonfly2.
-
-## penetration-testing 
-
-- [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
-
-## postgresql 
-
-- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
-- [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-
-## programming 
-
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-
-## project-management 
-
-- [pawelrychlik/jira-dependency-graph](https://github.com/pawelrychlik/jira-dependency-graph) - Graph visualizer for JIRA tickets' dependencies
-
-## python 
-
-- [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
-- [lukasgeiter/mkdocs-awesome-pages-plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin) - An MkDocs plugin that simplifies configuring page titles and their order
-- [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
-- [Cyclenerd/google-cloud-shells-on-demand](https://github.com/Cyclenerd/google-cloud-shells-on-demand) - ▶️ Shells on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
 - [timvink/mkdocs-enumerate-headings-plugin](https://github.com/timvink/mkdocs-enumerate-headings-plugin) - MkDocs Plugin to enumerate the headings across site pages
+- [claranet/ansible-gendoc](https://github.com/claranet/ansible-gendoc) - Auto generate Ansible documentation
+- [ansible/event-driven-ansible](https://github.com/ansible/event-driven-ansible) - 
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
+- [ultrabug/mkdocs-static-i18n](https://github.com/ultrabug/mkdocs-static-i18n) - MkDocs i18n plugin using static translation markdown files
 - [thegeeklab/ansible-later](https://github.com/thegeeklab/ansible-later) - Another best practice scanner for Ansible roles and playbooks
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
+- [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
+- [dora-team/fourkeys](https://github.com/dora-team/fourkeys) - Platform for monitoring the four key software delivery metrics of software delivery
+- [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
+- [anxstj/ansible-create-roles-overview](https://github.com/anxstj/ansible-create-roles-overview) - Create a roles overview page for all Ansible roles/playbooks in Gitlab
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0
+- [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
+- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+- [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) - 🏗 Specialized configuration as a code tool for GitLab
+- [lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [pawelrychlik/jira-dependency-graph](https://github.com/pawelrychlik/jira-dependency-graph) - Graph visualizer for JIRA tickets' dependencies
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [aker-gateway/Aker](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver
+- [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
+- [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for open S3 buckets and dump the contents
+- [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
+- [cyberark/KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions
 - [nbeguier/certificate_easy](https://github.com/nbeguier/certificate_easy) - Certificate reader and creater via CLI
+- [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
+- [arthepsy/ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python Applications
+- [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+- [apoletics/ansible-network-check](https://github.com/apoletics/ansible-network-check) - ansible-network-check
+- [kyhau/ssllabs-scan](https://github.com/kyhau/ssllabs-scan) - A simple Python script that calls SSL Labs API to do SSL testings on servers and create a report in html.
+- [AssuranceMaladieSec/CertStreamMonitor](https://github.com/AssuranceMaladieSec/CertStreamMonitor) - Monitor certificates generated for specific domain strings and associated, store data into sqlite3 database, alert you when sites come online.
 - [haidaraM/ansible-playbook-grapher](https://github.com/haidaraM/ansible-playbook-grapher) - A command line tool to create a graph representing your Ansible playbook tasks and roles
+- [cloudflare/flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
+- [Showmax/grafana-dashboards-generator](https://github.com/Showmax/grafana-dashboards-generator) - Generate Grafana dashboards from configuration
+- [weaveworks/grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
+- [particledecay/ansible-jsonpatch](https://github.com/particledecay/ansible-jsonpatch) - An Ansible module for patching JSON files
 - [mitogen-hq/mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python
+- [jwmatthews/example_ansible_aws](https://github.com/jwmatthews/example_ansible_aws) - Example Playbooks for working with Amazon Web Services
 - [pallets/itsdangerous](https://github.com/pallets/itsdangerous) - Safely pass trusted data to untrusted environments and back.
 - [spec-first/connexion](https://github.com/spec-first/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
+- [ansible-community/ansible-bender](https://github.com/ansible-community/ansible-bender) - ansible-playbook + buildah = a sweet container image
+- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [nccgroup/PMapper](https://github.com/nccgroup/PMapper) - A tool for quickly evaluating IAM permissions in AWS.
+- [rembik/ansible-role-letsencrypt](https://github.com/rembik/ansible-role-letsencrypt) - Ansible Role - Let's Encrypt private networks
 - [FKLC/AnyAPI](https://github.com/FKLC/AnyAPI) - AnyAPI is a library that helps you to write any API wrapper with ease and in pythonic way.
-- [guardrailsio/awesome-python-security](https://github.com/guardrailsio/awesome-python-security) - Awesome Python Security resources 🕶🐍🔐
+- [ansible/ansible-runner-service](https://github.com/ansible/ansible-runner-service) - 
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+- [jazzband/tablib](https://github.com/jazzband/tablib) - Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.
+- [python-diamond/Diamond](https://github.com/python-diamond/Diamond) - Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it feat
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
+- [tmbo/questionary](https://github.com/tmbo/questionary) - Python library to build pretty command line user prompts ✨Easy to use multi-select lists, confirmations, free text prompts ...
+- [RHsyseng/day-two-openstack](https://github.com/RHsyseng/day-two-openstack) - a collection of ansible playbooks and artifacts for day 2 openstack tasks
+- [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
+- [mqtt-tools/mqttwarn](https://github.com/mqtt-tools/mqttwarn) - A highly configurable MQTT message router, where the routing targets are notification plugins, primarily written in Python.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 
-## python3 
+## Ruby 
 
-- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ 
-- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-- [pawelrychlik/jira-dependency-graph](https://github.com/pawelrychlik/jira-dependency-graph) - Graph visualizer for JIRA tickets' dependencies
-- [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
-- [FKLC/AnyAPI](https://github.com/FKLC/AnyAPI) - AnyAPI is a library that helps you to write any API wrapper with ease and in pythonic way.
+- [elastic/ecs-mapper](https://github.com/elastic/ecs-mapper) - Translate an ECS mapping CSV to starter pipelines for Beats, Elasticsearch or Logstash
+- [OpenCSPM/opencspm](https://github.com/OpenCSPM/opencspm) - Open Cloud Security Posture Management Engine
+- [ytti/oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
-## raspberry-pi 
-
-- [Cyclenerd/google-cloud-shells-on-demand](https://github.com/Cyclenerd/google-cloud-shells-on-demand) - ▶️ Shells on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
-- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
-
-## react 
-
-- [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
-
-## rest-api 
-
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-
-## rust 
+## Rust 
 
 - [humblepenguinn/envio](https://github.com/humblepenguinn/envio) - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that needs no client-side software
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
+- [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [davidB/kubectl-view-allocations](https://github.com/davidB/kubectl-view-allocations) - kubectl plugin to list allocations (cpu, memory, gpu,... X utilization, requested, limit, allocatable,...)
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 
-## sass 
+## SCSS 
 
 - [kumahq/kuma-website](https://github.com/kumahq/kuma-website) - 🐻 The official website for Kuma, the control plane for modern service connectivity.
 
-## scala 
+## Scala 
 
 - [dacr/code-examples-manager](https://github.com/dacr/code-examples-manager) - Software tool to manage your notes, scripts, code examples, configs,... to publish them as gists or snippets
 
-## security 
+## Shell 
 
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses.
-- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. [CNCF Sandbox Project]
-- [jreisinger/checkip](https://github.com/jreisinger/checkip) - Get (security) info about IP addresses
-- [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
-- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
-- [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
-- [OpenCSPM/opencspm](https://github.com/OpenCSPM/opencspm) - Open Cloud Security Posture Management Engine
-- [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
-- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-- [githubixx/ansible-role-harden-linux](https://github.com/githubixx/ansible-role-harden-linux) - Ansible role for hardening Linux
-- [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
-- [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
-- [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
-- [tmobile/pacbot](https://github.com/tmobile/pacbot) - PacBot (Policy as Code Bot)
-- [pallets/itsdangerous](https://github.com/pallets/itsdangerous) - Safely pass trusted data to untrusted environments and back.
-- [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [guardrailsio/awesome-python-security](https://github.com/guardrailsio/awesome-python-security) - Awesome Python Security resources 🕶🐍🔐
-- [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-
-## self-hosted 
-
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-
-## server 
-
-- [moul/quicssh](https://github.com/moul/quicssh) - SSH over QUIC
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-
-## serverless 
-
-- [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
-- [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-
-## shell 
-
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
-- [BBVA/kapow](https://github.com/BBVA/kapow) - Kapow! If you can script it, you can HTTP it.
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-
-## software 
-
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-## spring-boot 
-
-- [tmobile/pacbot](https://github.com/tmobile/pacbot) - PacBot (Policy as Code Bot)
-
-## sql 
-
-- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
-
-## statistics 
-
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-
-## tensorflow 
-
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-
-## terminal 
-
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
-- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-
-## terraform 
-
-- [mharrvic/backstage-cloudrun-terraform](https://github.com/mharrvic/backstage-cloudrun-terraform) - Backstage deploy with Cloud Run via Terraform
-- [tdabasinskas/terraform-provider-backstage](https://github.com/tdabasinskas/terraform-provider-backstage) - Backstage provider for Terraform
-- [Cyclenerd/google-cloud-shells-on-demand](https://github.com/Cyclenerd/google-cloud-shells-on-demand) - ▶️ Shells on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
-- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
-- [adammck/terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
-- [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
-- [hieven/terraform-visual](https://github.com/hieven/terraform-visual) - Terraform Visual is an interactive way of visualizing your Terraform plan
-- [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
-
-## testing 
-
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-- [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
-- [ovh/venom](https://github.com/ovh/venom) - 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
-
-## twitter 
-
-- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-
-## ubuntu 
-
+- [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
+- [terrastruct/TALA](https://github.com/terrastruct/TALA) - A diagram layout engine designed specifically for software architecture diagrams
+- [roles-ansible/ansible_role_restic](https://github.com/roles-ansible/ansible_role_restic) - Ansible role to deploy and configure restic
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
-- [naggie/dsnet](https://github.com/naggie/dsnet) - FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
-- [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
+- [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
+- [Matty9191/ssl-cert-check](https://github.com/Matty9191/ssl-cert-check) - Send notifications when SSL certificates are about to expire.
+- [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code
+- [bderenzo/tinystatus](https://github.com/bderenzo/tinystatus) - Static status page generator
+- [flesueur/mi-lxc](https://github.com/flesueur/mi-lxc) - Mini-Internet using LXC for practical works
+- [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
+- [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
+- [kabisa/k8s-workshop-in-a-box](https://github.com/kabisa/k8s-workshop-in-a-box) - Tool for "one click" Kubernetes workshop setups
+- [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
+- [moul/rdv-titre-paris](https://github.com/moul/rdv-titre-paris) - 
+- [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
+- [opentelekomcloud/ansible-otc](https://github.com/opentelekomcloud/ansible-otc) - (Obsolete) A bunch of Ansible roles to manage resources on Open Telekom Cloud
+- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
+- [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 
-## vagrant 
+## Smarty 
 
-- [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
+- [sspreitzer/helm-ara](https://github.com/sspreitzer/helm-ara) - ARA Records Ansible Helm Chart
 
-## vuejs 
+## Starlark 
 
-- [kumahq/kuma-website](https://github.com/kumahq/kuma-website) - 🐻 The official website for Kuma, the control plane for modern service connectivity.
-- [Caiyeon/goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
+- [teslamotors/ansible_puller](https://github.com/teslamotors/ansible_puller) - Ansible daemon for massively-scaleable Ansible
 
-## web 
+## TypeScript 
 
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [spec-first/connexion](https://github.com/spec-first/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
-
-## web-components 
-
+- [johanneswuerbach/backstage-plugin-techdocs-addon-mermaid](https://github.com/johanneswuerbach/backstage-plugin-techdocs-addon-mermaid) - Backstage TechDocs Mermaid Addon
+- [drodil/backstage-plugin-toolbox](https://github.com/drodil/backstage-plugin-toolbox) - Most commonly used developer tools within Backstage
+- [Parsifal-M/backstage-gitlab-dora-plugin](https://github.com/Parsifal-M/backstage-gitlab-dora-plugin) - Dora metrics from Gitlab
+- [immobiliare/backstage-plugin-gitlab](https://github.com/immobiliare/backstage-plugin-gitlab) - Backstage plugins to interact with GitLab
+- [Oriflame/backstage-plugins](https://github.com/Oriflame/backstage-plugins) - Oriflame Backstage plugins
+- [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - 
+- [mharrvic/backstage-cloudrun-terraform](https://github.com/mharrvic/backstage-cloudrun-terraform) - Backstage deploy with Cloud Run via Terraform
+- [keptn-sandbox/backstage-plugin-keptn](https://github.com/keptn-sandbox/backstage-plugin-keptn) - Backstage plugin for Keptn
+- [drodil/backstage-plugin-qeta](https://github.com/drodil/backstage-plugin-qeta) - Backstage.io plugin for Q&A
+- [K-Phoen/backstage-plugin-announcements](https://github.com/K-Phoen/backstage-plugin-announcements) - Announcements plugin for Backstage
+- [cloud-carbon-footprint/ccf-backstage-plugin](https://github.com/cloud-carbon-footprint/ccf-backstage-plugin) - The CCF Backstage Plugin is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage that is meant to be consumed as a plugin into a Backstage app
+- [thefrontside/playhouse](https://github.com/thefrontside/playhouse) - https://backstage.frontside.services/
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories.
+- [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [mykolaharmash/git-jump](https://github.com/mykolaharmash/git-jump) - Improved navigation between Git branches.
+- [hieven/terraform-visual](https://github.com/hieven/terraform-visual) - Terraform Visual is an interactive way of visualizing your Terraform plan
 
-## webapp 
+## V 
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
-## windows 
+## Vue 
 
-- [ahmetb/RectangleWin](https://github.com/ahmetb/RectangleWin) - Hotkey-driven window snapping to edges and corners using hotkeys on Windows 10/11.
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+- [Caiyeon/goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
 
 
 ## License
@@ -935,3 +397,4 @@
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [jeanlouisferey](https://github.com/jeanlouisferey) has waived all copyright and related or neighboring rights to this work.
+
