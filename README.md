@@ -80,7 +80,7 @@
 - [devops-works/binenv](https://github.com/devops-works/binenv) - One binary to rule them all. Manage all those pesky binaries (kubectl, helm, terraform, ...) easily.
 - [ahmetb/RectangleWin](https://github.com/ahmetb/RectangleWin) - Hotkey-driven window snapping to edges and corners using hotkeys on Windows 10/11.
 - [opentelekomcloud/terraform-provider-opentelekomcloud](https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud) - Terraform OpenTelekomCloud provider
-- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. [CNCF Sandbox Project]
+- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. Workload hardening and implementing least-permissive policies made easy.
 - [jreisinger/checkip](https://github.com/jreisinger/checkip) - Get (security) info about IP addresses
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
