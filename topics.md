@@ -41,6 +41,7 @@
 - [google](#google)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
+- [home-assistant](#home-assistant)
 - [html](#html)
 - [http](#http)
 - [iot](#iot)
@@ -428,6 +429,10 @@
 - [canonical/lxd](https://github.com/canonical/lxd) - Powerful system container and virtual machine manager
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 
+## home-assistant 
+
+- [custom-components/ble_monitor](https://github.com/custom-components/ble_monitor) - BLE monitor for passive BLE sensors
+
 ## html 
 
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
@@ -596,6 +601,7 @@
 
 ## others 
 
+- [Bluetooth-Devices/thermopro-ble](https://github.com/Bluetooth-Devices/thermopro-ble) - Thermopro BLE Sensors
 - [johanneswuerbach/backstage-plugin-techdocs-addon-mermaid](https://github.com/johanneswuerbach/backstage-plugin-techdocs-addon-mermaid) - Backstage TechDocs Mermaid Addon
 - [oprypin/mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) - MkDocs plugin to allow placing mkdocs.yml in the same directory as documentation
 - [backstage/community](https://github.com/backstage/community) - All about the Backstage community (Meetups, Sessions etc.)
