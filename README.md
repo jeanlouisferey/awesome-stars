@@ -228,6 +228,7 @@
 
 ## Python 
 
+- [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
 - [Bluetooth-Devices/thermopro-ble](https://github.com/Bluetooth-Devices/thermopro-ble) - Thermopro BLE Sensors
 - [custom-components/ble_monitor](https://github.com/custom-components/ble_monitor) - BLE monitor for passive BLE sensors
 - [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
