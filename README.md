@@ -339,6 +339,7 @@
 
 ## Shell 
 
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [terrastruct/TALA](https://github.com/terrastruct/TALA) - A diagram layout engine designed specifically for software architecture diagrams
 - [roles-ansible/ansible_role_restic](https://github.com/roles-ansible/ansible_role_restic) - Ansible role to deploy and configure restic
@@ -369,6 +370,7 @@
 
 ## TypeScript 
 
+- [v-ngu/backstage-plugin-bulletin-board](https://github.com/v-ngu/backstage-plugin-bulletin-board) - Bulletin Board is a Backstage plugin that allows you to share interesting ideas, news and links with your teammates.
 - [johanneswuerbach/backstage-plugin-techdocs-addon-mermaid](https://github.com/johanneswuerbach/backstage-plugin-techdocs-addon-mermaid) - Backstage TechDocs Mermaid Addon
 - [drodil/backstage-plugin-toolbox](https://github.com/drodil/backstage-plugin-toolbox) - Most commonly used developer tools within Backstage
 - [Parsifal-M/backstage-gitlab-dora-plugin](https://github.com/Parsifal-M/backstage-gitlab-dora-plugin) - Dora metrics from Gitlab
