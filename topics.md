@@ -603,6 +603,7 @@
 
 ## others 
 
+- [v-ngu/backstage-plugin-bulletin-board](https://github.com/v-ngu/backstage-plugin-bulletin-board) - Bulletin Board is a Backstage plugin that allows you to share interesting ideas, news and links with your teammates.
 - [Bluetooth-Devices/thermopro-ble](https://github.com/Bluetooth-Devices/thermopro-ble) - Thermopro BLE Sensors
 - [johanneswuerbach/backstage-plugin-techdocs-addon-mermaid](https://github.com/johanneswuerbach/backstage-plugin-techdocs-addon-mermaid) - Backstage TechDocs Mermaid Addon
 - [oprypin/mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) - MkDocs plugin to allow placing mkdocs.yml in the same directory as documentation
@@ -850,6 +851,7 @@
 
 ## shell 
 
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
