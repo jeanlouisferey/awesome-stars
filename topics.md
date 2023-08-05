@@ -31,6 +31,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [emoji](#emoji)
+- [english](#english)
 - [express](#express)
 - [framework](#framework)
 - [git](#git)
@@ -323,6 +324,10 @@
 
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
+## english 
+
+- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
+
 ## express 
 
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -372,6 +377,7 @@
 
 ## golang 
 
+- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [tdabasinskas/terraform-provider-backstage](https://github.com/tdabasinskas/terraform-provider-backstage) - Backstage provider for Terraform
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -403,6 +409,8 @@
 
 ## hacktoberfest 
 
+- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
 - [drodil/backstage-plugin-toolbox](https://github.com/drodil/backstage-plugin-toolbox) - Most commonly used developer tools within Backstage
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -466,6 +474,7 @@
 
 ## kubernetes 
 
+- [GoogleCloudPlatform/gke-network-policy-demo](https://github.com/GoogleCloudPlatform/gke-network-policy-demo) - This guide demonstrates how to improve the security of your Kubernetes Engine by applying fine-grained restrictions to network communication. You will provision a simple HTTP server and two client pod
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [toboshii/hajimari](https://github.com/toboshii/hajimari) - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
@@ -667,7 +676,7 @@
 - [chris-morgan/tty-player](https://github.com/chris-morgan/tty-player) - &lt;tty-player&gt;: &lt;video&gt;, but for ttyrec scripts
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
 - [redhat-cop/agnosticd](https://github.com/redhat-cop/agnosticd) - AgnosticD - Ansible Deployer for multiple Cloud Deployers
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax), compressed file
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax), co
 - [jdumars/cncorr](https://github.com/jdumars/cncorr) - Cloud Native Organizational Readiness Review
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -809,6 +818,7 @@
 
 ## security 
 
+- [GoogleCloudPlatform/gke-network-policy-demo](https://github.com/GoogleCloudPlatform/gke-network-policy-demo) - This guide demonstrates how to improve the security of your Kubernetes Engine by applying fine-grained restrictions to network communication. You will provision a simple HTTP server and two client pod
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. Workload hardening and implementing least-permissive policies made easy.
