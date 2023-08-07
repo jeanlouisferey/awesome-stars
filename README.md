@@ -45,7 +45,7 @@
 
 ## C++ 
 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax), co
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep-compatible file searcher with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary files, ar
 
 ## CSS 
 
