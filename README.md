@@ -17,6 +17,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Lua](#lua)
+- [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -186,6 +187,10 @@
 
 - [zevv/lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 
+## Nunjucks 
+
+- [StageCentral/scaffolder-templates](https://github.com/StageCentral/scaffolder-templates) - 
+
 ## Others 
 
 - [backstage/community](https://github.com/backstage/community) - All about the Backstage community (Meetups, Sessions etc.)
@@ -230,6 +235,7 @@
 
 ## Python 
 
+- [AVATEAM-IT-SYSTEMHAUS/mkdocs-kroki-plugin](https://github.com/AVATEAM-IT-SYSTEMHAUS/mkdocs-kroki-plugin) - MkDocs plugin for Kroki-Diagrams
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
 - [Bluetooth-Devices/thermopro-ble](https://github.com/Bluetooth-Devices/thermopro-ble) - Thermopro BLE Sensors
