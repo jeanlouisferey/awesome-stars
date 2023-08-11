@@ -101,6 +101,7 @@
 - [web-components](#web-components)
 - [webapp](#webapp)
 - [windows](#windows)
+- [wordpress](#wordpress)
 
 ## 3d 
 
@@ -176,6 +177,7 @@
 
 ## aws 
 
+- [TechToSpeech/terraform-aws-serverless-static-wordpress](https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress) - Terraform module for deploying Serverless Static Wordpress on AWS
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [aquasecurity/cloud-security-remediation-guides](https://github.com/aquasecurity/cloud-security-remediation-guides) - Security Remediation Guides
@@ -612,6 +614,7 @@
 
 ## others 
 
+- [elementor/lokl-cli](https://github.com/elementor/lokl-cli) - Interactive script to launch and manage your Lokl sites
 - [AVATEAM-IT-SYSTEMHAUS/mkdocs-kroki-plugin](https://github.com/AVATEAM-IT-SYSTEMHAUS/mkdocs-kroki-plugin) - MkDocs plugin for Kroki-Diagrams
 - [StageCentral/scaffolder-templates](https://github.com/StageCentral/scaffolder-templates) - 
 - [v-ngu/backstage-plugin-bulletin-board](https://github.com/v-ngu/backstage-plugin-bulletin-board) - Bulletin Board is a Backstage plugin that allows you to share interesting ideas, news and links with your teammates.
@@ -856,6 +859,7 @@
 
 ## serverless 
 
+- [TechToSpeech/terraform-aws-serverless-static-wordpress](https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress) - Terraform module for deploying Serverless Static Wordpress on AWS
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
@@ -956,6 +960,10 @@
 
 - [ahmetb/RectangleWin](https://github.com/ahmetb/RectangleWin) - Hotkey-driven window snapping to edges and corners using hotkeys on Windows 10/11.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## wordpress 
+
+- [TechToSpeech/terraform-aws-serverless-static-wordpress](https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress) - Terraform module for deploying Serverless Static Wordpress on AWS
 
 
 ## License
