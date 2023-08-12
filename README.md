@@ -46,7 +46,7 @@
 
 ## C++ 
 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep-compatible file searcher with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary files, ar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep version 3.12: ultra fast grep-compatible file searcher with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary fi
 
 ## CSS 
 
@@ -380,6 +380,8 @@
 
 ## TypeScript 
 
+- [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
+- [awslabs/app-development-for-backstage-io-on-aws](https://github.com/awslabs/app-development-for-backstage-io-on-aws) - 
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
 - [v-ngu/backstage-plugin-bulletin-board](https://github.com/v-ngu/backstage-plugin-bulletin-board) - Bulletin Board is a Backstage plugin that allows you to share interesting ideas, news and links with your teammates.
 - [johanneswuerbach/backstage-plugin-techdocs-addon-mermaid](https://github.com/johanneswuerbach/backstage-plugin-techdocs-addon-mermaid) - Backstage TechDocs Mermaid Addon
