@@ -614,6 +614,8 @@
 
 ## others 
 
+- [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
+- [awslabs/app-development-for-backstage-io-on-aws](https://github.com/awslabs/app-development-for-backstage-io-on-aws) - 
 - [elementor/lokl-cli](https://github.com/elementor/lokl-cli) - Interactive script to launch and manage your Lokl sites
 - [AVATEAM-IT-SYSTEMHAUS/mkdocs-kroki-plugin](https://github.com/AVATEAM-IT-SYSTEMHAUS/mkdocs-kroki-plugin) - MkDocs plugin for Kroki-Diagrams
 - [StageCentral/scaffolder-templates](https://github.com/StageCentral/scaffolder-templates) - 
@@ -681,7 +683,7 @@
 - [chris-morgan/tty-player](https://github.com/chris-morgan/tty-player) - &lt;tty-player&gt;: &lt;video&gt;, but for ttyrec scripts
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
 - [redhat-cop/agnosticd](https://github.com/redhat-cop/agnosticd) - AgnosticD - Ansible Deployer for multiple Cloud Deployers
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep-compatible file searcher with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary files, ar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep version 3.12: ultra fast grep-compatible file searcher with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary fi
 - [jdumars/cncorr](https://github.com/jdumars/cncorr) - Cloud Native Organizational Readiness Review
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
