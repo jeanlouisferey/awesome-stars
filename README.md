@@ -29,7 +29,6 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
-- [Starlark](#starlark)
 - [TypeScript](#typescript)
 - [V](#v)
 - [Vue](#vue)
@@ -94,6 +93,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [seknox/trasa](https://github.com/seknox/trasa) - Zero Trust Service Access
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [teslamotors/ansible_puller](https://github.com/teslamotors/ansible_puller) - Ansible daemon for massively-scaleable Ansible
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
 - [openshift/enhancements](https://github.com/openshift/enhancements) - Enhancements tracking repository for OKD
 - [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for misconfigured S3 buckets across S3-compatible APIs!
@@ -373,10 +373,6 @@
 ## Smarty 
 
 - [sspreitzer/helm-ara](https://github.com/sspreitzer/helm-ara) - ARA Records Ansible Helm Chart
-
-## Starlark 
-
-- [teslamotors/ansible_puller](https://github.com/teslamotors/ansible_puller) - Ansible daemon for massively-scaleable Ansible
 
 ## TypeScript 
 
