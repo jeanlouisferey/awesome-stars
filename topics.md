@@ -616,6 +616,7 @@
 
 ## others 
 
+- [owentl/gitlab-prometheus](https://github.com/owentl/gitlab-prometheus) - Generate prometheus metrics from gitlab issues
 - [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
 - [awslabs/app-development-for-backstage-io-on-aws](https://github.com/awslabs/app-development-for-backstage-io-on-aws) - 
 - [elementor/lokl-cli](https://github.com/elementor/lokl-cli) - Interactive script to launch and manage your Lokl sites
