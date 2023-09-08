@@ -283,7 +283,7 @@
 - [pawelrychlik/jira-dependency-graph](https://github.com/pawelrychlik/jira-dependency-graph) - Graph visualizer for JIRA tickets' dependencies
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [aker-gateway/Aker](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver
-- [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
+- [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
 - [cyberark/KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions
 - [nbeguier/certificate_easy](https://github.com/nbeguier/certificate_easy) - Certificate reader and creater via CLI
