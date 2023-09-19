@@ -46,7 +46,7 @@
 
 ## C++ 
 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW version 4.1: a faster, user-friendly grep replacement. Includes TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps, searches nested archives (cpio/tar/pax/zip), compressed files (zip/gz/Z/
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep 4.1: an ultra-fast, user-friendly grep replacement. Ugrep combines the best features of other grep, adds new things, and surpasses their search speeds. Includes a TUI, boolean queries (AND/
 
 ## CSS 
 
