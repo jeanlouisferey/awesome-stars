@@ -143,7 +143,7 @@
 ## HCL 
 
 - [TechToSpeech/terraform-aws-serverless-static-wordpress](https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress) - Terraform module for deploying Serverless Static Wordpress on AWS
-- [Cyclenerd/google-cloud-shells-on-demand](https://github.com/Cyclenerd/google-cloud-shells-on-demand) - ▶️ Shells on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
+- [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) - ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
 - [stackrox/Kubernetes_Security_Specialist_Study_Guide](https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide) - 
 
 ## HTML 
