@@ -117,7 +117,7 @@
 
 ## ansible 
 
-- [Cyclenerd/google-cloud-shells-on-demand](https://github.com/Cyclenerd/google-cloud-shells-on-demand) - ▶️ Shells on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
+- [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) - ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
 - [claranet/ansible-gendoc](https://github.com/claranet/ansible-gendoc) - Auto generate Ansible documentation
 - [telekom-mms/ansible-bad-and-good-practices](https://github.com/telekom-mms/ansible-bad-and-good-practices) - A collection of good and bad Ansible code examples
 - [robertdebock/ansible-role-code](https://github.com/robertdebock/ansible-role-code) - Install visual studio code on your system.
@@ -147,7 +147,7 @@
 ## automation 
 
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [Cyclenerd/google-cloud-shells-on-demand](https://github.com/Cyclenerd/google-cloud-shells-on-demand) - ▶️ Shells on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
+- [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) - ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
 - [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
 - [thegeeklab/ansible-later](https://github.com/thegeeklab/ansible-later) - Another best practice scanner for Ansible roles and playbooks
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -458,7 +458,7 @@
 
 ## iot 
 
-- [Cyclenerd/google-cloud-shells-on-demand](https://github.com/Cyclenerd/google-cloud-shells-on-demand) - ▶️ Shells on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
+- [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) - ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
 
 ## java 
 
@@ -532,7 +532,7 @@
 
 ## linux 
 
-- [Cyclenerd/google-cloud-shells-on-demand](https://github.com/Cyclenerd/google-cloud-shells-on-demand) - ▶️ Shells on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
+- [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) - ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [aker-gateway/Aker](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver
 - [naggie/dsnet](https://github.com/naggie/dsnet) - FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
@@ -760,7 +760,7 @@
 - [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
 - [lukasgeiter/mkdocs-awesome-pages-plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin) - An MkDocs plugin that simplifies configuring page titles and their order
 - [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
-- [Cyclenerd/google-cloud-shells-on-demand](https://github.com/Cyclenerd/google-cloud-shells-on-demand) - ▶️ Shells on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
+- [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) - ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
 - [timvink/mkdocs-enumerate-headings-plugin](https://github.com/timvink/mkdocs-enumerate-headings-plugin) - MkDocs Plugin to enumerate the headings across site pages
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -797,7 +797,7 @@
 
 ## raspberry-pi 
 
-- [Cyclenerd/google-cloud-shells-on-demand](https://github.com/Cyclenerd/google-cloud-shells-on-demand) - ▶️ Shells on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
+- [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) - ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 
 ## react 
@@ -916,7 +916,7 @@
 
 - [mharrvic/backstage-cloudrun-terraform](https://github.com/mharrvic/backstage-cloudrun-terraform) - Backstage deploy with Cloud Run via Terraform
 - [tdabasinskas/terraform-provider-backstage](https://github.com/tdabasinskas/terraform-provider-backstage) - Backstage provider for Terraform
-- [Cyclenerd/google-cloud-shells-on-demand](https://github.com/Cyclenerd/google-cloud-shells-on-demand) - ▶️ Shells on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
+- [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) - ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [adammck/terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
 - [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
