@@ -70,7 +70,6 @@
 - [hlandau/acmetool](https://github.com/hlandau/acmetool) - :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source eBPF-based observability tool that turns telemetry data into actionable insights, helping you identify and resolve application issues quickly
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
@@ -399,6 +398,7 @@
 - [cloud-carbon-footprint/ccf-backstage-plugin](https://github.com/cloud-carbon-footprint/ccf-backstage-plugin) - The CCF Backstage Plugin is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage that is meant to be consumed as a plugin into a Backstage app
 - [thefrontside/playhouse](https://github.com/thefrontside/playhouse) - https://backstage.frontside.services/
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories.
+- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [mykolaharmash/git-jump](https://github.com/mykolaharmash/git-jump) - Improved navigation between Git branches.
