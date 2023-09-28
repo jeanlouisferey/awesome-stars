@@ -94,6 +94,7 @@
 - [terraform](#terraform)
 - [testing](#testing)
 - [twitter](#twitter)
+- [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [vagrant](#vagrant)
 - [vuejs](#vuejs)
@@ -933,6 +934,10 @@
 ## twitter 
 
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+
+## typescript 
+
+- [weaveworks/weaveworks-backstage](https://github.com/weaveworks/weaveworks-backstage) - Backstage app and Plugins for WeaveWorks and Flux.
 
 ## ubuntu 
 
