@@ -417,7 +417,9 @@
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
 - [drodil/backstage-plugin-toolbox](https://github.com/drodil/backstage-plugin-toolbox) - Most commonly used developer tools within Backstage
+- [immobiliare/backstage-plugin-gitlab](https://github.com/immobiliare/backstage-plugin-gitlab) - Backstage plugins to interact with GitLab
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
+- [drodil/backstage-plugin-qeta](https://github.com/drodil/backstage-plugin-qeta) - Backstage.io plugin for Q&A
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [telekom-mms/ansible-bad-and-good-practices](https://github.com/telekom-mms/ansible-bad-and-good-practices) - A collection of good and bad Ansible code examples
@@ -632,14 +634,12 @@
 - [backstage/community](https://github.com/backstage/community) - All about the Backstage community (Meetups, Sessions etc.)
 - [encode/httpcore](https://github.com/encode/httpcore) - A minimal HTTP client. ⚙️
 - [Parsifal-M/backstage-gitlab-dora-plugin](https://github.com/Parsifal-M/backstage-gitlab-dora-plugin) - Dora metrics from Gitlab
-- [immobiliare/backstage-plugin-gitlab](https://github.com/immobiliare/backstage-plugin-gitlab) - Backstage plugins to interact with GitLab
 - [RoadieHQ/sample-service](https://github.com/RoadieHQ/sample-service) - A sample service for testing build tools, testing Backstage etc.
 - [Oriflame/backstage-plugins](https://github.com/Oriflame/backstage-plugins) - Oriflame Backstage plugins
 - [sprin/markdown-inline-graphviz](https://github.com/sprin/markdown-inline-graphviz) - Render inline graphs with Markdown and Graphviz
 - [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - 
 - [keptn-sandbox/backstage-plugin-keptn](https://github.com/keptn-sandbox/backstage-plugin-keptn) - Backstage plugin for Keptn
 - [RoadieHQ/backstage-entity-validator](https://github.com/RoadieHQ/backstage-entity-validator) - Validate properties and well known annotations in your Backstage catalog-info.yaml files.
-- [drodil/backstage-plugin-qeta](https://github.com/drodil/backstage-plugin-qeta) - Backstage.io plugin for Q&A
 - [K-Phoen/backstage-plugin-announcements](https://github.com/K-Phoen/backstage-plugin-announcements) - Announcements plugin for Backstage
 - [cloud-carbon-footprint/ccf-backstage-plugin](https://github.com/cloud-carbon-footprint/ccf-backstage-plugin) - The CCF Backstage Plugin is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage that is meant to be consumed as a plugin into a Backstage app
 - [thefrontside/playhouse](https://github.com/thefrontside/playhouse) - https://backstage.frontside.services/
