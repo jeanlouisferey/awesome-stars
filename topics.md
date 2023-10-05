@@ -278,7 +278,7 @@
 ## devops 
 
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source eBPF-based observability tool that turns telemetry data into actionable insights, helping you identify and resolve application issues quickly
+- [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project)
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
@@ -484,9 +484,9 @@
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [toboshii/hajimari](https://github.com/toboshii/hajimari) - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
-- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
+- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source eBPF-based observability tool that turns telemetry data into actionable insights, helping you identify and resolve application issues quickly
+- [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes.
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [obeyler/Formation-K8S](https://github.com/obeyler/Formation-K8S) - Formation K8S avec exercices et labs
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. Workload hardening and implementing least-permissive policies made easy.
@@ -573,7 +573,7 @@
 ## monitoring 
 
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source eBPF-based observability tool that turns telemetry data into actionable insights, helping you identify and resolve application issues quickly
+- [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes.
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [dora-team/fourkeys](https://github.com/dora-team/fourkeys) - Platform for monitoring the four key software delivery metrics of software delivery
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
