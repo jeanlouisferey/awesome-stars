@@ -46,7 +46,7 @@
 
 ## C++ 
 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep 4.2: an ultra-fast, user-friendly grep replacement. Ugrep combines the best features of other grep, adds new things, and surpasses their search speeds. Includes a TUI, boolean queries (AND/
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep 4.3: an ultra-fast, user-friendly grep replacement. Ugrep combines the best features of other grep, adds new things, and surpasses their search speeds. Includes a TUI, boolean queries (AND/
 
 ## CSS 
 
