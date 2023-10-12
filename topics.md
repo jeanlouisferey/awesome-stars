@@ -125,6 +125,7 @@
 - [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
 - [thegeeklab/ansible-later](https://github.com/thegeeklab/ansible-later) - Another best practice scanner for Ansible roles and playbooks
 - [IronTooch/AnsibleSnippets-VSCode](https://github.com/IronTooch/AnsibleSnippets-VSCode) - A collection of common ansible snippet patterns for use with VS Code
+- [roles-ansible/ansible_role_restic](https://github.com/roles-ansible/ansible_role_restic) - Ansible role to deploy and configure restic
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup
 - [teslamotors/ansible_puller](https://github.com/teslamotors/ansible_puller) - Ansible daemon for massively-scaleable Ansible
@@ -151,6 +152,7 @@
 - [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) - ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
 - [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
 - [thegeeklab/ansible-later](https://github.com/thegeeklab/ansible-later) - Another best practice scanner for Ansible roles and playbooks
+- [roles-ansible/ansible_role_restic](https://github.com/roles-ansible/ansible_role_restic) - Ansible role to deploy and configure restic
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
@@ -424,6 +426,7 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [telekom-mms/ansible-bad-and-good-practices](https://github.com/telekom-mms/ansible-bad-and-good-practices) - A collection of good and bad Ansible code examples
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. Workload hardening and implementing least-permissive policies made easy.
+- [roles-ansible/ansible_role_restic](https://github.com/roles-ansible/ansible_role_restic) - Ansible role to deploy and configure restic
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
@@ -660,7 +663,6 @@
 - [lukechilds/reverse-shell](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [opentelekomcloud/terraform-provider-opentelekomcloud](https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud) - Terraform OpenTelekomCloud provider
-- [roles-ansible/ansible_role_restic](https://github.com/roles-ansible/ansible_role_restic) - Ansible role to deploy and configure restic
 - [anxstj/ansible-create-roles-overview](https://github.com/anxstj/ansible-create-roles-overview) - Create a roles overview page for all Ansible roles/playbooks in Gitlab
 - [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
