@@ -20,6 +20,7 @@
 - [code](#code)
 - [code-review](#code-review)
 - [compiler](#compiler)
+- [computer-science](#computer-science)
 - [config](#config)
 - [data](#data)
 - [data-analysis](#data-analysis)
@@ -250,6 +251,10 @@
 ## compiler 
 
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
+
+## computer-science 
+
+- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 
 ## config 
 
@@ -715,7 +720,6 @@
 - [cloudflare/flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
 - [Showmax/grafana-dashboards-generator](https://github.com/Showmax/grafana-dashboards-generator) - Generate Grafana dashboards from configuration
 - [davidB/kubectl-view-allocations](https://github.com/davidB/kubectl-view-allocations) - kubectl plugin to list allocations (cpu, memory, gpu,... X utilization, requested, limit, allocatable,...)
-- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [falcosecurity-retire/falco-kubernetes-workshop](https://github.com/falcosecurity-retire/falco-kubernetes-workshop) - A lightweight workshop build on the shoulders of giants.
 - [monpremierctf/mon_premier_ctf](https://github.com/monpremierctf/mon_premier_ctf) - CTF Challenges pour débutants
 - [particledecay/ansible-jsonpatch](https://github.com/particledecay/ansible-jsonpatch) - An Ansible module for patching JSON files
