@@ -70,6 +70,7 @@
 - [others](#others)
 - [p2p](#p2p)
 - [penetration-testing](#penetration-testing)
+- [pentesting](#pentesting)
 - [postgresql](#postgresql)
 - [programming](#programming)
 - [project-management](#project-management)
@@ -669,7 +670,6 @@
 - [sspreitzer/helm-ara](https://github.com/sspreitzer/helm-ara) - ARA Records Ansible Helm Chart
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [ultrabug/mkdocs-static-i18n](https://github.com/ultrabug/mkdocs-static-i18n) - MkDocs i18n plugin using static translation markdown files
-- [lukechilds/reverse-shell](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [opentelekomcloud/terraform-provider-opentelekomcloud](https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud) - Terraform OpenTelekomCloud provider
 - [anxstj/ansible-create-roles-overview](https://github.com/anxstj/ansible-create-roles-overview) - Create a roles overview page for all Ansible roles/playbooks in Gitlab
@@ -751,6 +751,10 @@
 ## penetration-testing 
 
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
+
+## pentesting 
+
+- [lukechilds/reverse-shell](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service
 
 ## postgresql 
 
