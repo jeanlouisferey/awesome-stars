@@ -633,6 +633,7 @@
 
 ## others 
 
+- [sammbetts/backstage-plugin-service-health](https://github.com/sammbetts/backstage-plugin-service-health) - A plugin for Backstage to display and notify of third party service incidents
 - [Intility/vscode-backstage](https://github.com/Intility/vscode-backstage) - Backstage support for Visual Studio Code
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [backstage/mkdocs-techdocs-core](https://github.com/backstage/mkdocs-techdocs-core) - The core MkDocs plugin used by Backstage's TechDocs as a wrapper around multiple MkDocs plugins and Python Markdown extensions
