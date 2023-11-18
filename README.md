@@ -384,6 +384,7 @@
 
 ## TypeScript 
 
+- [RSC-Labs/backstage-changelog-plugin](https://github.com/RSC-Labs/backstage-changelog-plugin) - ChangeLog plugin for Backstage which provides possibility to read and view change log of component in Software Catalog
 - [sammbetts/backstage-plugin-service-health](https://github.com/sammbetts/backstage-plugin-service-health) - A plugin for Backstage to display and notify of third party service incidents
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [weaveworks/weaveworks-backstage](https://github.com/weaveworks/weaveworks-backstage) - Backstage app and Plugins for WeaveWorks and Flux.
