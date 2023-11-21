@@ -9,7 +9,6 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
-- [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -52,10 +51,6 @@
 
 - [TheFern2/markdown-book](https://github.com/TheFern2/markdown-book) - Sample markdown book with pandoc
 - [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
-
-## Dockerfile 
-
-- [vojeroen/lemonldap-ng-kubernetes](https://github.com/vojeroen/lemonldap-ng-kubernetes) - LemonLDAP::NG for Kubernetes
 
 ## Go 
 
