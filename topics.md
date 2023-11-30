@@ -69,6 +69,7 @@
 - [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
+- [package-manager](#package-manager)
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
 - [postgresql](#postgresql)
@@ -751,6 +752,10 @@
 ## p2p 
 
 - [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) - This repository has be archived and moved to the new repository https://github.com/dragonflyoss/Dragonfly2.
+
+## package-manager 
+
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 
 ## penetration-testing 
 
