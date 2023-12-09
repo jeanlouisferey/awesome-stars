@@ -235,9 +235,9 @@
 
 ## Python 
 
+- [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [backstage/mkdocs-techdocs-core](https://github.com/backstage/mkdocs-techdocs-core) - The core MkDocs plugin used by Backstage's TechDocs as a wrapper around multiple MkDocs plugins and Python Markdown extensions
 - [oprypin/mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) - MkDocs plugin to programmatically generate documentation pages during the build
-- [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [owentl/gitlab-prometheus](https://github.com/owentl/gitlab-prometheus) - Generate prometheus metrics from gitlab issues
 - [AVATEAM-IT-SYSTEMHAUS/mkdocs-kroki-plugin](https://github.com/AVATEAM-IT-SYSTEMHAUS/mkdocs-kroki-plugin) - MkDocs plugin for Kroki-Diagrams
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
