@@ -152,7 +152,6 @@
 
 - [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
 - [tmobile/pacbot](https://github.com/tmobile/pacbot) - PacBot (Policy as Code Bot)
-- [tmobile/t-vault](https://github.com/tmobile/t-vault) - Simplified secrets management solution
 
 ## JavaScript 
 
