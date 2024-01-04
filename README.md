@@ -242,7 +242,7 @@
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
 - [Bluetooth-Devices/thermopro-ble](https://github.com/Bluetooth-Devices/thermopro-ble) - Thermopro BLE Sensors
 - [custom-components/ble_monitor](https://github.com/custom-components/ble_monitor) - BLE monitor for passive BLE sensors
-- [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
+- [fralau/mkdocs-macros-plugin](https://github.com/fralau/mkdocs-macros-plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
 - [oprypin/mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) - MkDocs plugin to allow placing mkdocs.yml in the same directory as documentation
 - [lukasgeiter/mkdocs-awesome-pages-plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin) - An MkDocs plugin that simplifies configuring page titles and their order
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
