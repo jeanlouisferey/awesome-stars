@@ -201,6 +201,7 @@
 - [tmobile/pacbot](https://github.com/tmobile/pacbot) - PacBot (Policy as Code Bot)
 - [nccgroup/PMapper](https://github.com/nccgroup/PMapper) - A tool for quickly evaluating IAM permissions in AWS.
 - [udhos/lavalake](https://github.com/udhos/lavalake) - lavalake - Manage security groups uniformly across multiple cloud providers.
+- [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
 
 ## azure 
 
@@ -632,6 +633,7 @@
 
 ## open-source 
 
+- [Parsifal-M/backstage-opa-plugins](https://github.com/Parsifal-M/backstage-opa-plugins) - Open Policy Agent (OPA) Plugins for Backstage
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 
