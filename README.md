@@ -400,7 +400,7 @@
 - [drodil/backstage-plugin-qeta](https://github.com/drodil/backstage-plugin-qeta) - Backstage.io plugin for Q&A
 - [K-Phoen/backstage-plugin-announcements](https://github.com/K-Phoen/backstage-plugin-announcements) - Announcements plugin for Backstage
 - [cloud-carbon-footprint/ccf-backstage-plugin](https://github.com/cloud-carbon-footprint/ccf-backstage-plugin) - The CCF Backstage Plugin is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage that is meant to be consumed as a plugin into a Backstage app
-- [thefrontside/playhouse](https://github.com/thefrontside/playhouse) - https://backstage.frontside.services/
+- [thefrontside/playhouse](https://github.com/thefrontside/playhouse) - Frontside's Backstage Portal
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories.
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
