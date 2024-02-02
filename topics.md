@@ -669,7 +669,7 @@
 - [RoadieHQ/backstage-entity-validator](https://github.com/RoadieHQ/backstage-entity-validator) - Validate properties and well known annotations in your Backstage catalog-info.yaml files.
 - [K-Phoen/backstage-plugin-announcements](https://github.com/K-Phoen/backstage-plugin-announcements) - Announcements plugin for Backstage
 - [cloud-carbon-footprint/ccf-backstage-plugin](https://github.com/cloud-carbon-footprint/ccf-backstage-plugin) - The CCF Backstage Plugin is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage that is meant to be consumed as a plugin into a Backstage app
-- [thefrontside/playhouse](https://github.com/thefrontside/playhouse) - https://backstage.frontside.services/
+- [thefrontside/playhouse](https://github.com/thefrontside/playhouse) - Frontside's Backstage Portal
 - [terrastruct/TALA](https://github.com/terrastruct/TALA) - A diagram layout engine designed specifically for software architecture diagrams
 - [fralau/mkdocs-mermaid2-plugin](https://github.com/fralau/mkdocs-mermaid2-plugin) - A Mermaid graphs plugin for mkdocs
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos
