@@ -503,6 +503,7 @@
 
 ## kubernetes 
 
+- [janus-idp/operator](https://github.com/janus-idp/operator) - Operator for Backstage, based the operator-sdk framework
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
@@ -654,6 +655,7 @@
 
 ## others 
 
+- [redhat-developer/red-hat-developer-hub-software-templates](https://github.com/redhat-developer/red-hat-developer-hub-software-templates) - Collection of Software Templates for Red Hat Developer Hub
 - [Parsifal-M/backstage-opa-entity-checker](https://github.com/Parsifal-M/backstage-opa-entity-checker) - Provides a way to audit entity metadata with OPA
 - [RSC-Labs/backstage-changelog-plugin](https://github.com/RSC-Labs/backstage-changelog-plugin) - ChangeLog plugin for Backstage which provides possibility to read and view change log of component in Software Catalog
 - [sammbetts/backstage-plugin-service-health](https://github.com/sammbetts/backstage-plugin-service-health) - A plugin for Backstage to display and notify of third party service incidents
