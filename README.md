@@ -49,6 +49,7 @@
 
 ## CSS 
 
+- [KhiopsML/khiops-doc](https://github.com/KhiopsML/khiops-doc) - Khiops.org site
 - [TheFern2/markdown-book](https://github.com/TheFern2/markdown-book) - Sample markdown book with pandoc
 - [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
 
@@ -385,6 +386,7 @@
 
 ## TypeScript 
 
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [Parsifal-M/backstage-opa-plugins](https://github.com/Parsifal-M/backstage-opa-plugins) - Open Policy Agent (OPA) Plugins for Backstage
 - [Parsifal-M/backstage-opa-entity-checker](https://github.com/Parsifal-M/backstage-opa-entity-checker) - Provides a way to audit entity metadata with OPA
 - [RSC-Labs/backstage-changelog-plugin](https://github.com/RSC-Labs/backstage-changelog-plugin) - ChangeLog plugin for Backstage which provides possibility to read and view change log of component in Software Catalog
