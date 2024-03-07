@@ -382,6 +382,7 @@
 
 ## Smarty 
 
+- [q-shift/qshift-templates](https://github.com/q-shift/qshift-templates) - Backstage templates for the Qshift demo
 - [sspreitzer/helm-ara](https://github.com/sspreitzer/helm-ara) - ARA Records Ansible Helm Chart
 
 ## TypeScript 
