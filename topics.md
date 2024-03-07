@@ -657,6 +657,7 @@
 
 ## others 
 
+- [q-shift/qshift-templates](https://github.com/q-shift/qshift-templates) - Backstage templates for the Qshift demo
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [KhiopsML/khiops-doc](https://github.com/KhiopsML/khiops-doc) - Khiops.org site
 - [redhat-developer/red-hat-developer-hub-software-templates](https://github.com/redhat-developer/red-hat-developer-hub-software-templates) - Collection of Software Templates for Red Hat Developer Hub
