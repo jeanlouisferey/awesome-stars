@@ -657,6 +657,7 @@
 
 ## others 
 
+- [premisedata/dynamic-data-form-extension](https://github.com/premisedata/dynamic-data-form-extension) - Backstage Plugin - Dynamic Data Form Extension (Frontend and Backend Plugins)
 - [q-shift/qshift-templates](https://github.com/q-shift/qshift-templates) - Backstage templates for the Qshift demo
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [KhiopsML/khiops-doc](https://github.com/KhiopsML/khiops-doc) - Khiops.org site
