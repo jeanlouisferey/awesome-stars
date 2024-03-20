@@ -388,6 +388,7 @@
 
 ## TypeScript 
 
+- [tduniec/backstage-timesaver-plugin](https://github.com/tduniec/backstage-timesaver-plugin) - This plugin provides an implementation of charts and statistics related to your time savings that are coming from usage of your templates. Plugins is built from frontend and backend part. This part of
 - [premisedata/dynamic-data-form-extension](https://github.com/premisedata/dynamic-data-form-extension) - Backstage Plugin - Dynamic Data Form Extension (Frontend and Backend Plugins)
 - [Parsifal-M/backstage-opa-plugins](https://github.com/Parsifal-M/backstage-opa-plugins) - Open Policy Agent (OPA) Plugins for Backstage
 - [Parsifal-M/backstage-opa-entity-checker](https://github.com/Parsifal-M/backstage-opa-entity-checker) - Provides a way to audit entity metadata with OPA
