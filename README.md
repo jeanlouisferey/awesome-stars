@@ -81,7 +81,7 @@
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
 - [devops-works/binenv](https://github.com/devops-works/binenv) - One binary to rule them all. Manage all those pesky binaries (kubectl, helm, terraform, ...) easily.
-- [ahmetb/RectangleWin](https://github.com/ahmetb/RectangleWin) - Hotkey-driven window snapping to edges and corners using hotkeys on Windows 10/11.
+- [ahmetb/RectangleWin](https://github.com/ahmetb/RectangleWin) - Spectacle/Rectangle for Windows: Hotkey-driven window snapping for Windows 10/11.
 - [opentelekomcloud/terraform-provider-opentelekomcloud](https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud) - Terraform OpenTelekomCloud provider
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor).
 - [jreisinger/checkip](https://github.com/jreisinger/checkip) - Get (security) info about IP addresses
