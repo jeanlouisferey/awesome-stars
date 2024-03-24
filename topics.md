@@ -1033,7 +1033,7 @@
 
 ## windows 
 
-- [ahmetb/RectangleWin](https://github.com/ahmetb/RectangleWin) - Hotkey-driven window snapping to edges and corners using hotkeys on Windows 10/11.
+- [ahmetb/RectangleWin](https://github.com/ahmetb/RectangleWin) - Spectacle/Rectangle for Windows: Hotkey-driven window snapping for Windows 10/11.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
 ## wordpress 
