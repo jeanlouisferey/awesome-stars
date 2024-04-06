@@ -392,7 +392,6 @@
 - [tduniec/backstage-timesaver-plugin](https://github.com/tduniec/backstage-timesaver-plugin) - This plugin provides an implementation of charts and statistics related to your time savings that are coming from usage of your templates. Plugins is built from frontend and backend part. This part of
 - [premisedata/dynamic-data-form-extension](https://github.com/premisedata/dynamic-data-form-extension) - Backstage Plugin - Dynamic Data Form Extension (Frontend and Backend Plugins)
 - [Parsifal-M/backstage-opa-plugins](https://github.com/Parsifal-M/backstage-opa-plugins) - Open Policy Agent (OPA) Plugins for Backstage
-- [Parsifal-M/backstage-opa-entity-checker](https://github.com/Parsifal-M/backstage-opa-entity-checker) - Provides a way to audit entity metadata with OPA
 - [RSC-Labs/backstage-changelog-plugin](https://github.com/RSC-Labs/backstage-changelog-plugin) - ChangeLog plugin for Backstage which provides possibility to read and view change log of component in Software Catalog
 - [sammbetts/backstage-plugin-service-health](https://github.com/sammbetts/backstage-plugin-service-health) - A plugin for Backstage to display and notify of third party service incidents
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
