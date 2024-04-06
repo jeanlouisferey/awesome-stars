@@ -664,7 +664,6 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [KhiopsML/khiops-doc](https://github.com/KhiopsML/khiops-doc) - Khiops.org site
 - [redhat-developer/red-hat-developer-hub-software-templates](https://github.com/redhat-developer/red-hat-developer-hub-software-templates) - Collection of Software Templates for Red Hat Developer Hub
-- [Parsifal-M/backstage-opa-entity-checker](https://github.com/Parsifal-M/backstage-opa-entity-checker) - Provides a way to audit entity metadata with OPA
 - [RSC-Labs/backstage-changelog-plugin](https://github.com/RSC-Labs/backstage-changelog-plugin) - ChangeLog plugin for Backstage which provides possibility to read and view change log of component in Software Catalog
 - [sammbetts/backstage-plugin-service-health](https://github.com/sammbetts/backstage-plugin-service-health) - A plugin for Backstage to display and notify of third party service incidents
 - [Intility/vscode-backstage](https://github.com/Intility/vscode-backstage) - Backstage support for Visual Studio Code
