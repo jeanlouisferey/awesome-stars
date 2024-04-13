@@ -55,7 +55,8 @@
 
 ## Go 
 
-- [janus-idp/operator](https://github.com/janus-idp/operator) - Operator for Backstage, based the operator-sdk framework
+- [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations}
+- [janus-idp/operator](https://github.com/janus-idp/operator) - Operator for Backstage, based on the Operator SDK framework
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [stakpak/devx](https://github.com/stakpak/devx) - A tool for generating, validating & sharing all your configurations, powered by CUE. Works with Kubernetes, Terraform, Compose, GitHub actions and much more...
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
