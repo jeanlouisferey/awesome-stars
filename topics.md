@@ -297,6 +297,7 @@
 
 ## devops 
 
+- [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations}
 - [stakpak/devx](https://github.com/stakpak/devx) - A tool for generating, validating & sharing all your configurations, powered by CUE. Works with Kubernetes, Terraform, Compose, GitHub actions and much more...
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -504,7 +505,8 @@
 
 ## kubernetes 
 
-- [janus-idp/operator](https://github.com/janus-idp/operator) - Operator for Backstage, based the operator-sdk framework
+- [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations}
+- [janus-idp/operator](https://github.com/janus-idp/operator) - Operator for Backstage, based on the Operator SDK framework
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
@@ -922,6 +924,7 @@
 
 ## serverless 
 
+- [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations}
 - [awslabs/app-development-for-backstage-io-on-aws](https://github.com/awslabs/app-development-for-backstage-io-on-aws) - A developer portal to meet your Enterprise needs. Fast, secure, and at-scale.
 - [TechToSpeech/terraform-aws-serverless-static-wordpress](https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress) - Terraform module for deploying Serverless Static Wordpress on AWS
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
@@ -977,6 +980,7 @@
 
 ## terraform 
 
+- [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations}
 - [mharrvic/backstage-cloudrun-terraform](https://github.com/mharrvic/backstage-cloudrun-terraform) - Backstage deploy with Cloud Run via Terraform
 - [tdabasinskas/terraform-provider-backstage](https://github.com/tdabasinskas/terraform-provider-backstage) - Backstage provider for Terraform
 - [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) - ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
