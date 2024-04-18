@@ -659,6 +659,7 @@
 
 ## others 
 
+- [blacknon/snipt](https://github.com/blacknon/snipt) - multiple remote platform snippet-code manager command.
 - [seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins) - SeatGeek Backstage Plugins Collection
 - [tduniec/backstage-timesaver-plugin](https://github.com/tduniec/backstage-timesaver-plugin) - This plugin provides an implementation of charts and statistics related to your time savings that are coming from usage of your templates. Plugins is built from frontend and backend part. This part of
 - [premisedata/dynamic-data-form-extension](https://github.com/premisedata/dynamic-data-form-extension) - Backstage Plugin - Dynamic Data Form Extension (Frontend and Backend Plugins)
