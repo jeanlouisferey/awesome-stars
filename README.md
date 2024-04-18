@@ -55,6 +55,7 @@
 
 ## Go 
 
+- [blacknon/snipt](https://github.com/blacknon/snipt) - multiple remote platform snippet-code manager command.
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations}
 - [janus-idp/operator](https://github.com/janus-idp/operator) - Operator for Backstage, based on the Operator SDK framework
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
