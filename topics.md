@@ -653,6 +653,7 @@
 
 ## open-source 
 
+- [Parsifal-M/backstage-open-feedback](https://github.com/Parsifal-M/backstage-open-feedback) - Feedback Plugin for Backstage
 - [Parsifal-M/backstage-opa-plugins](https://github.com/Parsifal-M/backstage-opa-plugins) - Open Policy Agent (OPA) Plugins for Backstage
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
