@@ -219,7 +219,7 @@
 - [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project)
 - [aquasecurity/cloud-security-remediation-guides](https://github.com/aquasecurity/cloud-security-remediation-guides) - Security Remediation Guides
 - [tisseurdetoile/pub](https://github.com/tisseurdetoile/pub) - public stuff / template for pomodoro / task management / compact Calendar
-- [elastic/ecs-logging](https://github.com/elastic/ecs-logging) - ECS Logging - Common resources and issues for the language specific ECS loggers
+- [elastic/ecs-logging](https://github.com/elastic/ecs-logging) - 
 - [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools
 - [StenlyTU/K8s-training-official](https://github.com/StenlyTU/K8s-training-official) - The goal of this tutorial is to give you a good understanding of Kubernetes.
 - [jdumars/agileops](https://github.com/jdumars/agileops) - The Agile Operations methodology
