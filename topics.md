@@ -727,7 +727,7 @@
 - [tisseurdetoile/pub](https://github.com/tisseurdetoile/pub) - public stuff / template for pomodoro / task management / compact Calendar
 - [zevv/lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
-- [elastic/ecs-logging](https://github.com/elastic/ecs-logging) - ECS Logging - Common resources and issues for the language specific ECS loggers
+- [elastic/ecs-logging](https://github.com/elastic/ecs-logging) - 
 - [elastic/ecs-mapper](https://github.com/elastic/ecs-mapper) - Translate an ECS mapping CSV to starter pipelines for Beats, Elasticsearch or Logstash
 - [bderenzo/tinystatus](https://github.com/bderenzo/tinystatus) - Static status page generator
 - [skupperproject/skupper](https://github.com/skupperproject/skupper) - Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication.
