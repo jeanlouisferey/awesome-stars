@@ -51,6 +51,7 @@
 
 ## CSS 
 
+- [Orange-OpenSource/ods-mkdocs-theme](https://github.com/Orange-OpenSource/ods-mkdocs-theme) - Orange Design System MkDocs Theme provides a MkDocs theme for Orange
 - [KhiopsML/khiops-doc](https://github.com/KhiopsML/khiops-doc) - Khiops.org site
 - [TheFern2/markdown-book](https://github.com/TheFern2/markdown-book) - Sample markdown book with pandoc
 - [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
@@ -219,7 +220,7 @@
 - [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project)
 - [aquasecurity/cloud-security-remediation-guides](https://github.com/aquasecurity/cloud-security-remediation-guides) - Security Remediation Guides
 - [tisseurdetoile/pub](https://github.com/tisseurdetoile/pub) - public stuff / template for pomodoro / task management / compact Calendar
-- [elastic/ecs-logging](https://github.com/elastic/ecs-logging) - 
+- [elastic/ecs-logging](https://github.com/elastic/ecs-logging) - ECS Logging - Common resources and issues for the language specific ECS loggers
 - [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools
 - [StenlyTU/K8s-training-official](https://github.com/StenlyTU/K8s-training-official) - The goal of this tutorial is to give you a good understanding of Kubernetes.
 - [jdumars/agileops](https://github.com/jdumars/agileops) - The Agile Operations methodology
