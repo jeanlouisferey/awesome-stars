@@ -254,6 +254,8 @@
 
 ## Python 
 
+- [electrolux-oss/aws-cost-exporter](https://github.com/electrolux-oss/aws-cost-exporter) - Exposing AWS cost information as standard Prometheus metrics.
+- [electrolux-oss/azure-cost-exporter](https://github.com/electrolux-oss/azure-cost-exporter) - Exposing Azure cost information as standard Prometheus metrics.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
@@ -401,6 +403,7 @@
 
 ## TypeScript 
 
+- [electrolux-oss/infrawallet](https://github.com/electrolux-oss/infrawallet) - Control your cloud costs just in the way how you control your bank accounts
 - [pehlicd/rbac-wizard](https://github.com/pehlicd/rbac-wizard) - RBAC Wizard is an intuitive UI tool for visualizing Kubernetes RBAC resources.
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
 - [Parsifal-M/backstage-open-feedback](https://github.com/Parsifal-M/backstage-open-feedback) - Feedback Plugin for Backstage
