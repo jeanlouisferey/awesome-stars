@@ -58,6 +58,7 @@
 
 ## Go 
 
+- [DevoteamNL/opendora](https://github.com/DevoteamNL/opendora) - Team performance insights for your organization.
 - [radius-project/radius](https://github.com/radius-project/radius) - Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.
 - [blacknon/snipt](https://github.com/blacknon/snipt) - multiple remote platform snippet-code manager command.
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations}
