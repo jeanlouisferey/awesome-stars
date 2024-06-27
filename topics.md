@@ -671,6 +671,7 @@
 
 ## others 
 
+- [DevoteamNL/opendora](https://github.com/DevoteamNL/opendora) - Team performance insights for your organization.
 - [electrolux-oss/aws-cost-exporter](https://github.com/electrolux-oss/aws-cost-exporter) - Exposing AWS cost information as standard Prometheus metrics.
 - [electrolux-oss/azure-cost-exporter](https://github.com/electrolux-oss/azure-cost-exporter) - Exposing Azure cost information as standard Prometheus metrics.
 - [Orange-OpenSource/ods-mkdocs-theme](https://github.com/Orange-OpenSource/ods-mkdocs-theme) - Orange Design System MkDocs Theme provides a MkDocs theme for Orange
