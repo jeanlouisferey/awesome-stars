@@ -256,6 +256,7 @@
 
 ## Python 
 
+- [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [electrolux-oss/aws-cost-exporter](https://github.com/electrolux-oss/aws-cost-exporter) - Exposing AWS cost information as standard Prometheus metrics.
 - [electrolux-oss/azure-cost-exporter](https://github.com/electrolux-oss/azure-cost-exporter) - Exposing Azure cost information as standard Prometheus metrics.
