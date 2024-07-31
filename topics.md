@@ -536,7 +536,7 @@
 
 - [pehlicd/rbac-wizard](https://github.com/pehlicd/rbac-wizard) - RBAC Wizard is an intuitive UI tool for visualizing Kubernetes RBAC resources.
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations}
-- [janus-idp/operator](https://github.com/janus-idp/operator) - Operator for Backstage, based on the Operator SDK framework
+- [janus-idp/operator](https://github.com/janus-idp/operator) - Deprecated - Operator for Backstage, based on the Operator SDK framework - see https://github.com/redhat-developer/rhdh-operator
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
@@ -693,6 +693,7 @@
 
 ## others 
 
+- [tsaxon13/GitlabUserAudit](https://github.com/tsaxon13/GitlabUserAudit) - Create list of gitlab users that have access to projects and subgroups under a top level group
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
 - [DevoteamNL/opendora](https://github.com/DevoteamNL/opendora) - Team performance insights for your organization.
 - [electrolux-oss/aws-cost-exporter](https://github.com/electrolux-oss/aws-cost-exporter) - Exposing AWS cost information as standard Prometheus metrics.
