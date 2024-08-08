@@ -47,7 +47,7 @@
 
 ## C++ 
 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.3: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.4: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 
 ## CSS 
 
@@ -290,7 +290,7 @@
 - [soulless-viewer/mkdocs-video](https://github.com/soulless-viewer/mkdocs-video) - MkDocs Video plugin
 - [timvink/mkdocs-enumerate-headings-plugin](https://github.com/timvink/mkdocs-enumerate-headings-plugin) - MkDocs Plugin to enumerate the headings across site pages
 - [claranet/ansible-gendoc](https://github.com/claranet/ansible-gendoc) - Auto generate Ansible documentation
-- [ansible/event-driven-ansible](https://github.com/ansible/event-driven-ansible) - 
+- [ansible/event-driven-ansible](https://github.com/ansible/event-driven-ansible) - Ansible Collection for EDA
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
