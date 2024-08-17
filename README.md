@@ -412,7 +412,7 @@
 
 ## TypeScript 
 
-- [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous software engineer right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
+- [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [electrolux-oss/infrawallet](https://github.com/electrolux-oss/infrawallet) - Control your cloud costs just in the way how you control your bank accounts
 - [pehlicd/rbac-wizard](https://github.com/pehlicd/rbac-wizard) - RBAC Wizard is an intuitive UI tool for visualizing Kubernetes RBAC resources.
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
@@ -434,7 +434,7 @@
 - [Parsifal-M/backstage-gitlab-dora-plugin](https://github.com/Parsifal-M/backstage-gitlab-dora-plugin) - Dora metrics from Gitlab
 - [immobiliare/backstage-plugin-gitlab](https://github.com/immobiliare/backstage-plugin-gitlab) - Backstage plugins to interact with GitLab
 - [Oriflame/backstage-plugins](https://github.com/Oriflame/backstage-plugins) - Oriflame Backstage plugins
-- [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - Enterprise-ready Backstage distribution
+- [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - This repo is moving to https://github.com/redhat-developer/red-hat-developer-hub
 - [mharrvic/backstage-cloudrun-terraform](https://github.com/mharrvic/backstage-cloudrun-terraform) - Backstage deploy with Cloud Run via Terraform
 - [keptn-sandbox/backstage-plugin-keptn](https://github.com/keptn-sandbox/backstage-plugin-keptn) - Backstage plugin for Keptn
 - [drodil/backstage-plugin-qeta](https://github.com/drodil/backstage-plugin-qeta) - Backstage.io plugin for Q&A
