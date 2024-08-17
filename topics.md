@@ -493,7 +493,7 @@
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
 - [drodil/backstage-plugin-toolbox](https://github.com/drodil/backstage-plugin-toolbox) - Most commonly used developer tools within Backstage
 - [immobiliare/backstage-plugin-gitlab](https://github.com/immobiliare/backstage-plugin-gitlab) - Backstage plugins to interact with GitLab
-- [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - Enterprise-ready Backstage distribution
+- [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - This repo is moving to https://github.com/redhat-developer/red-hat-developer-hub
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [tdabasinskas/terraform-provider-backstage](https://github.com/tdabasinskas/terraform-provider-backstage) - Backstage provider for Terraform
 - [drodil/backstage-plugin-qeta](https://github.com/drodil/backstage-plugin-qeta) - Backstage.io plugin for Q&A
@@ -715,7 +715,7 @@
 
 ## others 
 
-- [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous software engineer right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
+- [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [tsaxon13/GitlabUserAudit](https://github.com/tsaxon13/GitlabUserAudit) - Create list of gitlab users that have access to projects and subgroups under a top level group
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
 - [DevoteamNL/opendora](https://github.com/DevoteamNL/opendora) - Team performance insights for your organization.
