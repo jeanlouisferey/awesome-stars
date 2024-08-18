@@ -55,6 +55,7 @@
 - [home-assistant](#home-assistant)
 - [html](#html)
 - [http](#http)
+- [https](#https)
 - [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
@@ -534,6 +535,10 @@
 - [BBVA/kapow](https://github.com/BBVA/kapow) - Kapow! If you can script it, you can HTTP it.
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
+
+## https 
+
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 
 ## iot 
 
