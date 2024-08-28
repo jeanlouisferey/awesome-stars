@@ -206,7 +206,7 @@
 ## aws 
 
 - [electrolux-oss/infrawallet](https://github.com/electrolux-oss/infrawallet) - Control your cloud costs just in the way how you control your bank accounts
-- [awslabs/app-development-for-backstage-io-on-aws](https://github.com/awslabs/app-development-for-backstage-io-on-aws) - A developer portal to meet your Enterprise needs. Fast, secure, and at-scale.
+- [awslabs/harmonix](https://github.com/awslabs/harmonix) - A developer portal to meet your Enterprise needs. Fast, secure, and at-scale.
 - [TechToSpeech/terraform-aws-serverless-static-wordpress](https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress) - Terraform module for deploying Serverless Static Wordpress on AWS
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
@@ -569,7 +569,7 @@
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
-- [awslabs/app-development-for-backstage-io-on-aws](https://github.com/awslabs/app-development-for-backstage-io-on-aws) - A developer portal to meet your Enterprise needs. Fast, secure, and at-scale.
+- [awslabs/harmonix](https://github.com/awslabs/harmonix) - A developer portal to meet your Enterprise needs. Fast, secure, and at-scale.
 - [GoogleCloudPlatform/gke-network-policy-demo](https://github.com/GoogleCloudPlatform/gke-network-policy-demo) - This guide demonstrates how to improve the security of your Kubernetes Engine by applying fine-grained restrictions to network communication. You will provision a simple HTTP server and two client pod
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [toboshii/hajimari](https://github.com/toboshii/hajimari) - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
@@ -1010,7 +1010,7 @@
 ## serverless 
 
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations}
-- [awslabs/app-development-for-backstage-io-on-aws](https://github.com/awslabs/app-development-for-backstage-io-on-aws) - A developer portal to meet your Enterprise needs. Fast, secure, and at-scale.
+- [awslabs/harmonix](https://github.com/awslabs/harmonix) - A developer portal to meet your Enterprise needs. Fast, secure, and at-scale.
 - [TechToSpeech/terraform-aws-serverless-static-wordpress](https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress) - Terraform module for deploying Serverless Static Wordpress on AWS
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
