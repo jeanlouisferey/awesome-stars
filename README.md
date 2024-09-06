@@ -412,6 +412,7 @@
 
 ## TypeScript 
 
+- [dweber019/backstage-plugins](https://github.com/dweber019/backstage-plugins) - A collection of Backstage plugins
 - [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [electrolux-oss/infrawallet](https://github.com/electrolux-oss/infrawallet) - Control your cloud costs just in the way how you control your bank accounts
 - [pehlicd/rbac-wizard](https://github.com/pehlicd/rbac-wizard) - RBAC Wizard is an intuitive UI tool for visualizing Kubernetes RBAC resources.
