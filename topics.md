@@ -427,6 +427,7 @@
 
 ## go 
 
+- [coder/wush](https://github.com/coder/wush) - simplest & fastest way to transfer files between computers via WireGuard
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [tdabasinskas/terraform-provider-backstage](https://github.com/tdabasinskas/terraform-provider-backstage) - Backstage provider for Terraform
