@@ -742,7 +742,7 @@
 
 - [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities s
 - [dweber019/backstage-plugins](https://github.com/dweber019/backstage-plugins) - A collection of Backstage plugins
-- [clinebot/cline](https://github.com/clinebot/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [tsaxon13/GitlabUserAudit](https://github.com/tsaxon13/GitlabUserAudit) - Create list of gitlab users that have access to projects and subgroups under a top level group
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
 - [DevoteamNL/opendora](https://github.com/DevoteamNL/opendora) - Team performance insights for your organization.
