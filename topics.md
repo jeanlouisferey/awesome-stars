@@ -818,7 +818,7 @@
 - [elastic/ecs-mapper](https://github.com/elastic/ecs-mapper) - Translate an ECS mapping CSV to starter pipelines for Beats, Elasticsearch or Logstash
 - [bderenzo/tinystatus](https://github.com/bderenzo/tinystatus) - Static status page generator
 - [skupperproject/skupper](https://github.com/skupperproject/skupper) - Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication.
-- [lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
+- [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [flesueur/mi-lxc](https://github.com/flesueur/mi-lxc) - Mini-Internet using LXC for practical works
 - [StenlyTU/K8s-training-official](https://github.com/StenlyTU/K8s-training-official) - The goal of this tutorial is to give you a good understanding of Kubernetes.
 - [seknox/trasa](https://github.com/seknox/trasa) - Zero Trust Service Access
