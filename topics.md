@@ -174,7 +174,7 @@
 
 ## automation 
 
-- [AIHawk-co/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-co/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
+- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) - ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
 - [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
@@ -248,7 +248,7 @@
 
 ## bot 
 
-- [AIHawk-co/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-co/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
+- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
 
 ## bugbounty 
 
@@ -256,11 +256,11 @@
 
 ## chatgpt 
 
-- [AIHawk-co/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-co/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
+- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
 
 ## chrome 
 
-- [AIHawk-co/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-co/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
+- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
 
 ## cli 
 
@@ -761,7 +761,7 @@
 - [redhat-developer/red-hat-developer-hub-software-templates](https://github.com/redhat-developer/red-hat-developer-hub-software-templates) - Collection of Software Templates for Red Hat Developer Hub
 - [RSC-Labs/backstage-changelog-plugin](https://github.com/RSC-Labs/backstage-changelog-plugin) - ChangeLog plugin for Backstage which provides possibility to read and view change log of component in Software Catalog
 - [sammbetts/backstage-plugin-service-health](https://github.com/sammbetts/backstage-plugin-service-health) - A plugin for Backstage to display and notify of third party service incidents
-- [Intility/vscode-backstage](https://github.com/Intility/vscode-backstage) - Backstage support for Visual Studio Code
+- [intility/vscode-backstage](https://github.com/intility/vscode-backstage) - Backstage support for Visual Studio Code
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [backstage/mkdocs-techdocs-core](https://github.com/backstage/mkdocs-techdocs-core) - The core MkDocs plugin used by Backstage's TechDocs as a wrapper around multiple MkDocs plugins and Python Markdown extensions
 - [oprypin/mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) - MkDocs plugin to programmatically generate documentation pages during the build
@@ -908,7 +908,7 @@
 
 ## python 
 
-- [AIHawk-co/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-co/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
+- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
@@ -942,7 +942,7 @@
 
 ## python3 
 
-- [AIHawk-co/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-co/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
+- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
