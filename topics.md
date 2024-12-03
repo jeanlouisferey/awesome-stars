@@ -170,11 +170,12 @@
 
 ## artificial-intelligence 
 
+- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and p
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 
 ## automation 
 
-- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
+- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and p
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) - ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
 - [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
@@ -248,7 +249,7 @@
 
 ## bot 
 
-- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
+- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and p
 
 ## bugbounty 
 
@@ -256,11 +257,11 @@
 
 ## chatgpt 
 
-- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
+- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and p
 
 ## chrome 
 
-- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
+- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and p
 
 ## cli 
 
@@ -909,7 +910,7 @@
 
 ## python 
 
-- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
+- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and p
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
@@ -943,7 +944,6 @@
 
 ## python3 
 
-- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
