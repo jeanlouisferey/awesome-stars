@@ -9,6 +9,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -55,6 +56,10 @@
 - [KhiopsML/khiops-doc](https://github.com/KhiopsML/khiops-doc) - khiops.org site (Technical Repo)
 - [TheFern2/markdown-book](https://github.com/TheFern2/markdown-book) - Sample markdown book with pandoc
 - [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
+
+## Dockerfile 
+
+- [orange-cloudfoundry/servicemanager-images](https://github.com/orange-cloudfoundry/servicemanager-images) - OCI Image for Orange Service Manager IDP solution
 
 ## Go 
 
