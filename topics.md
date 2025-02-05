@@ -744,6 +744,7 @@
 
 ## others 
 
+- [orange-cloudfoundry/servicemanager-images](https://github.com/orange-cloudfoundry/servicemanager-images) - OCI Image for Orange Service Manager IDP solution
 - [redhat-developer/rhdh-plugins](https://github.com/redhat-developer/rhdh-plugins) - Red Hat Developer Hub plugins
 - [paullockaby/enphase-proxy](https://github.com/paullockaby/enphase-proxy) - A proxy for accessing the Enphase Envoy local API.
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
