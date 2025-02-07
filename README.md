@@ -426,7 +426,8 @@
 
 ## TypeScript 
 
-- [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ The Architecture Decision Record (ADR) management and publication tool
+- [vateseeb/backstage-vscode-extension](https://github.com/vateseeb/backstage-vscode-extension) - VS Code extension to make working with Backstages catalog-info files easier
+- [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Architecture Decision Records (ADR) management and publication tool
 - [redhat-developer/rhdh-plugins](https://github.com/redhat-developer/rhdh-plugins) - Red Hat Developer Hub plugins
 - [dweber019/backstage-plugins](https://github.com/dweber019/backstage-plugins) - A collection of Backstage plugins
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
