@@ -510,7 +510,7 @@
 - [immobiliare/backstage-plugin-gitlab](https://github.com/immobiliare/backstage-plugin-gitlab) - Backstage plugins to interact with GitLab
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [datolabs-io/terraform-provider-backstage](https://github.com/datolabs-io/terraform-provider-backstage) - Backstage provider for Terraform
-- [drodil/backstage-plugin-qeta](https://github.com/drodil/backstage-plugin-qeta) - Backstage.io plugin for Q&A
+- [drodil/backstage-plugin-qeta](https://github.com/drodil/backstage-plugin-qeta) - Q&A is a Backstage plugin that allows asking and answering questions within Backstage
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [telekom-mms/ansible-bad-and-good-practices](https://github.com/telekom-mms/ansible-bad-and-good-practices) - A collection of good and bad Ansible code examples
