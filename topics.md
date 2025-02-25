@@ -131,6 +131,7 @@
 
 ## ai 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -177,6 +178,7 @@
 
 ## automation 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) - ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
@@ -267,6 +269,7 @@
 
 ## cli 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [servicer-labs/servicer](https://github.com/servicer-labs/servicer) - A CLI to simplify service management on systemd
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
@@ -369,6 +372,7 @@
 
 ## docker 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI.
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -652,6 +656,7 @@
 
 ## low-code 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ## machine-learning 
@@ -710,6 +715,7 @@
 
 ## node 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [kriskbx/gitlab-time-tracker](https://github.com/kriskbx/gitlab-time-tracker) - 🦊🕘 A command line interface for GitLab's time tracking feature.
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 
@@ -744,6 +750,7 @@
 
 ## others 
 
+- [Infosys/openfga-plugin-backstage](https://github.com/Infosys/openfga-plugin-backstage) - This plugin wraps around the Backstage Permission Framework and uses the OPENFGA client to evaluate policies. It will send a request to OPENFGA with the permission and identity information, OPENFGA wi
 - [vateseeb/backstage-vscode-extension](https://github.com/vateseeb/backstage-vscode-extension) - VS Code extension to make working with Backstages catalog-info files easier
 - [orange-cloudfoundry/servicemanager-images](https://github.com/orange-cloudfoundry/servicemanager-images) - OCI Image for Orange Service Manager IDP solution
 - [redhat-developer/rhdh-plugins](https://github.com/redhat-developer/rhdh-plugins) - Red Hat Developer Hub plugins
@@ -1031,6 +1038,7 @@
 
 ## self-hosted 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -1130,6 +1138,7 @@
 
 ## typescript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [weaveworks/weaveworks-backstage](https://github.com/weaveworks/weaveworks-backstage) - Backstage app and Plugins for WeaveWorks and Flux.
 
