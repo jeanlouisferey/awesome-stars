@@ -426,6 +426,8 @@
 
 ## TypeScript 
 
+- [Infosys/openfga-plugin-backstage](https://github.com/Infosys/openfga-plugin-backstage) - This plugin wraps around the Backstage Permission Framework and uses the OPENFGA client to evaluate policies. It will send a request to OPENFGA with the permission and identity information, OPENFGA wi
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [vateseeb/backstage-vscode-extension](https://github.com/vateseeb/backstage-vscode-extension) - VS Code extension to make working with Backstages catalog-info files easier
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Architecture Decision Records (ADR) management and publication tool
 - [redhat-developer/rhdh-plugins](https://github.com/redhat-developer/rhdh-plugins) - Red Hat Developer Hub plugins
