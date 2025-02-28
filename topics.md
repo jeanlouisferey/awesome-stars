@@ -750,6 +750,7 @@
 
 ## others 
 
+- [cncf/landscape2-sites](https://github.com/cncf/landscape2-sites) - Landscape2 sites settings and deployment workflows
 - [Infosys/openfga-plugin-backstage](https://github.com/Infosys/openfga-plugin-backstage) - This plugin wraps around the Backstage Permission Framework and uses the OPENFGA client to evaluate policies. It will send a request to OPENFGA with the permission and identity information, OPENFGA wi
 - [vateseeb/backstage-vscode-extension](https://github.com/vateseeb/backstage-vscode-extension) - VS Code extension to make working with Backstages catalog-info files easier
 - [orange-cloudfoundry/servicemanager-images](https://github.com/orange-cloudfoundry/servicemanager-images) - OCI Image for Orange Service Manager IDP solution
@@ -1051,6 +1052,7 @@
 
 ## serverless 
 
+- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations}
 - [awslabs/harmonix](https://github.com/awslabs/harmonix) - A developer portal to meet your Enterprise needs. Fast, secure, and at-scale.
 - [TechToSpeech/terraform-aws-serverless-static-wordpress](https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress) - Terraform module for deploying Serverless Static Wordpress on AWS
