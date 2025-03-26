@@ -268,6 +268,7 @@
 
 ## Python 
 
+- [dmytrostriletskyi/diagrams-as-code](https://github.com/dmytrostriletskyi/diagrams-as-code) - Diagrams as code: declarative configurations using YAML for drawing cloud system architectures.
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - The engine of the RenderCV App
 - [paullockaby/enphase-proxy](https://github.com/paullockaby/enphase-proxy) - A proxy for accessing the Enphase Envoy local API.
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
