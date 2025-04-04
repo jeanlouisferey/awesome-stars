@@ -20,6 +20,7 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Nunjucks](#nunjucks)
+- [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -218,6 +219,10 @@
 ## Nunjucks 
 
 - [StageCentral/scaffolder-templates](https://github.com/StageCentral/scaffolder-templates) - 
+
+## Open Policy Agent 
+
+- [ap-communications/platt-policy-template](https://github.com/ap-communications/platt-policy-template) - 
 
 ## Others 
 
