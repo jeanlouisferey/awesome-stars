@@ -763,6 +763,8 @@
 
 ## others 
 
+- [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - Turns Codebase into Easy Tutorial with AI
+- [TeraSky-OSS/backstage-plugins](https://github.com/TeraSky-OSS/backstage-plugins) - Backstage Plugins Developed by TeraSky
 - [ap-communications/platt-policy-template](https://github.com/ap-communications/platt-policy-template) - 
 - [Parsifal-M/backstage-opa-policy-gen](https://github.com/Parsifal-M/backstage-opa-policy-gen) - Create Backstage OPA Policies
 - [cncf/landscape2-sites](https://github.com/cncf/landscape2-sites) - Landscape2 sites settings and deployment workflows
