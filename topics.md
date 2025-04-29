@@ -24,6 +24,7 @@
 - [cli](#cli)
 - [code](#code)
 - [code-review](#code-review)
+- [coding](#coding)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [config](#config)
@@ -66,6 +67,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [login](#login)
 - [low-code](#low-code)
 - [machine-learning](#machine-learning)
@@ -302,6 +304,10 @@
 ## code-review 
 
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
+
+## coding 
+
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow Tutorial Project: Turns GitHub repo into Easy Tutorial with AI
 
 ## compiler 
 
@@ -659,6 +665,10 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
 
+## llm 
+
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow Tutorial Project: Turns GitHub repo into Easy Tutorial with AI
+
 ## login 
 
 - [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
@@ -763,7 +773,6 @@
 
 ## others 
 
-- [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - Turns Codebase into Easy Tutorial with AI
 - [TeraSky-OSS/backstage-plugins](https://github.com/TeraSky-OSS/backstage-plugins) - Backstage Plugins Developed by TeraSky
 - [ap-communications/platt-policy-template](https://github.com/ap-communications/platt-policy-template) - 
 - [Parsifal-M/backstage-opa-policy-gen](https://github.com/Parsifal-M/backstage-opa-policy-gen) - Create Backstage OPA Policies
