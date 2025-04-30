@@ -437,6 +437,7 @@
 
 ## TypeScript 
 
+- [TRIMM/plugin-dependencytrack](https://github.com/TRIMM/plugin-dependencytrack) - Plugin for retrieving Dependencytrack metrics in Backstage
 - [TeraSky-OSS/backstage-plugins](https://github.com/TeraSky-OSS/backstage-plugins) - Backstage Plugins Developed by TeraSky
 - [janus-idp/backstage-plugins](https://github.com/janus-idp/backstage-plugins) - Plugins for Backstage
 - [Infosys/openfga-plugin-backstage](https://github.com/Infosys/openfga-plugin-backstage) - This plugin wraps around the Backstage Permission Framework and uses the OPENFGA client to evaluate policies. It will send a request to OPENFGA with the permission and identity information, OPENFGA wi
