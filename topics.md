@@ -120,6 +120,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [vagrant](#vagrant)
 - [vpn](#vpn)
 - [vuejs](#vuejs)
@@ -1177,6 +1178,11 @@
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
 - [naggie/dsnet](https://github.com/naggie/dsnet) - FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 - [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
+
+## ui 
+
+- [pehlicd/rbac-wizard](https://github.com/pehlicd/rbac-wizard) - RBAC Wizard is an intuitive UI tool for visualizing Kubernetes RBAC resources.
+- [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
 
 ## vagrant 
 
