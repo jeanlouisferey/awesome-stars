@@ -286,7 +286,7 @@
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
 - [jreisinger/checkip](https://github.com/jreisinger/checkip) - Get (security) info about IP addresses
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-- [kriskbx/gitlab-time-tracker](https://github.com/kriskbx/gitlab-time-tracker) - 🦊🕘 A command line interface for GitLab's time tracking feature.
+- [kriskbx/gitlab-time-tracker](https://github.com/kriskbx/gitlab-time-tracker) - 🦊🕘 A command line interface for GitLab's time tracking feature. Check out this fork for regular updates and new features: https://github.com/ndu2/gitlab-time-tracker
 - [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) - 🏗 Specialized configuration as a code tool for GitLab
 - [mykolaharmash/git-jump](https://github.com/mykolaharmash/git-jump) - Improved navigation between Git branches.
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
@@ -392,7 +392,7 @@
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
-- [kriskbx/gitlab-time-tracker](https://github.com/kriskbx/gitlab-time-tracker) - 🦊🕘 A command line interface for GitLab's time tracking feature.
+- [kriskbx/gitlab-time-tracker](https://github.com/kriskbx/gitlab-time-tracker) - 🦊🕘 A command line interface for GitLab's time tracking feature. Check out this fork for regular updates and new features: https://github.com/ndu2/gitlab-time-tracker
 - [pawelrychlik/jira-dependency-graph](https://github.com/pawelrychlik/jira-dependency-graph) - Graph visualizer for JIRA tickets' dependencies
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
 - [weaveworks/footloose](https://github.com/weaveworks/footloose) - Container Machines - Containers that look like Virtual Machines
@@ -739,13 +739,13 @@
 
 ## node 
 
-- [kriskbx/gitlab-time-tracker](https://github.com/kriskbx/gitlab-time-tracker) - 🦊🕘 A command line interface for GitLab's time tracking feature.
+- [kriskbx/gitlab-time-tracker](https://github.com/kriskbx/gitlab-time-tracker) - 🦊🕘 A command line interface for GitLab's time tracking feature. Check out this fork for regular updates and new features: https://github.com/ndu2/gitlab-time-tracker
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 
 ## nodejs 
 
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [kriskbx/gitlab-time-tracker](https://github.com/kriskbx/gitlab-time-tracker) - 🦊🕘 A command line interface for GitLab's time tracking feature.
+- [kriskbx/gitlab-time-tracker](https://github.com/kriskbx/gitlab-time-tracker) - 🦊🕘 A command line interface for GitLab's time tracking feature. Check out this fork for regular updates and new features: https://github.com/ndu2/gitlab-time-tracker
 
 ## nosql 
 
