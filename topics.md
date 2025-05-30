@@ -625,7 +625,7 @@
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
-- [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
+- [vmware/pinniped](https://github.com/vmware/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
 - [OpenCSPM/opencspm](https://github.com/OpenCSPM/opencspm) - Open Cloud Security Posture Management Engine
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
 - [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
@@ -678,7 +678,7 @@
 
 ## login 
 
-- [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
+- [vmware/pinniped](https://github.com/vmware/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
 
 ## low-code 
 
