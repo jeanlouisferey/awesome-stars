@@ -184,6 +184,7 @@
 ## JavaScript 
 
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+- [backstage/community](https://github.com/backstage/community) - All about the Backstage community (Meetups, Sessions etc.)
 - [RoadieHQ/sample-service](https://github.com/RoadieHQ/sample-service) - A sample service for testing build tools, testing Backstage etc.
 - [RoadieHQ/backstage-entity-validator](https://github.com/RoadieHQ/backstage-entity-validator) - Validate properties and well known annotations in your Backstage catalog-info.yaml files.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -233,7 +234,6 @@
 - [intility/vscode-backstage](https://github.com/intility/vscode-backstage) - Backstage support for Visual Studio Code
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
-- [backstage/community](https://github.com/backstage/community) - All about the Backstage community (Meetups, Sessions etc.)
 - [telekom-mms/ansible-bad-and-good-practices](https://github.com/telekom-mms/ansible-bad-and-good-practices) - A collection of good and bad Ansible code examples
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [robertdebock/ansible-role-code](https://github.com/robertdebock/ansible-role-code) - Install visual studio code on your system.
