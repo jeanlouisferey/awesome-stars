@@ -34,6 +34,7 @@
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deployment](#deployment)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
 - [django](#django)
@@ -353,6 +354,13 @@
 ## deployment 
 
 - [kptdev/kpt](https://github.com/kptdev/kpt) - Automate Kubernetes Configuration Editing
+
+## developer-tools 
+
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+- [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Architecture Decision Records (ADR) management and publication tool
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 
 ## development 
 
