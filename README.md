@@ -85,6 +85,7 @@
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [datolabs-io/terraform-provider-backstage](https://github.com/datolabs-io/terraform-provider-backstage) - Backstage provider for Terraform
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [hlandau/acmetool](https://github.com/hlandau/acmetool) - :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -188,7 +189,6 @@
 - [backstage/community](https://github.com/backstage/community) - All about the Backstage community (Meetups, Sessions etc.)
 - [RoadieHQ/sample-service](https://github.com/RoadieHQ/sample-service) - A sample service for testing build tools, testing Backstage etc.
 - [RoadieHQ/backstage-entity-validator](https://github.com/RoadieHQ/backstage-entity-validator) - Validate properties and well known annotations in your Backstage catalog-info.yaml files.
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [lukechilds/reverse-shell](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -440,7 +440,7 @@
 
 ## TypeScript 
 
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 - [TRIMM/plugin-dependencytrack](https://github.com/TRIMM/plugin-dependencytrack) - Plugin for retrieving Dependencytrack metrics in Backstage
 - [TeraSky-OSS/backstage-plugins](https://github.com/TeraSky-OSS/backstage-plugins) - Backstage Plugins Developed by TeraSky
 - [janus-idp/backstage-plugins](https://github.com/janus-idp/backstage-plugins) - Plugins for Backstage: this repo is deprecated and will be archived soon. If you still depend on something from this repo, it's time to look for a replacement.
