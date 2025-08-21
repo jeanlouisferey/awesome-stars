@@ -89,7 +89,7 @@
 - [hlandau/acmetool](https://github.com/hlandau/acmetool) - :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and 
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) - The missing reverse proxy for ssh scp
@@ -445,7 +445,7 @@
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 - [TRIMM/plugin-dependencytrack](https://github.com/TRIMM/plugin-dependencytrack) - Plugin for retrieving Dependencytrack metrics in Backstage
 - [TeraSky-OSS/backstage-plugins](https://github.com/TeraSky-OSS/backstage-plugins) - Backstage Plugins Developed by TeraSky
-- [janus-idp/backstage-plugins](https://github.com/janus-idp/backstage-plugins) - Plugins for Backstage: this repo is deprecated and will be archived soon. If you still depend on something from this repo, it's time to look for a replacement.
+- [janus-idp/backstage-plugins](https://github.com/janus-idp/backstage-plugins) - Plugins for Backstage: this repo is deprecated and archived. If you still depend on something from this repo, it's time to look for a replacement.
 - [Infosys/openfga-plugin-backstage](https://github.com/Infosys/openfga-plugin-backstage) - This plugin wraps around the Backstage Permission Framework and uses the OPENFGA client to evaluate policies. It will send a request to OPENFGA with the permission and identity information, OPENFGA wi
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [vateseeb/backstage-vscode-extension](https://github.com/vateseeb/backstage-vscode-extension) - VS Code extension to make working with Backstages catalog-info files easier
