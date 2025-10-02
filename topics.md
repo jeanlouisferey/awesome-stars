@@ -301,7 +301,7 @@
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
-- [jreisinger/checkip](https://github.com/jreisinger/checkip) - Get (security) info about IP addresses
+- [go-monk/checkip](https://github.com/go-monk/checkip) - Get (security) info about IP addresses
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [kriskbx/gitlab-time-tracker](https://github.com/kriskbx/gitlab-time-tracker) - 🦊🕘 A command line interface for GitLab's time tracking feature. Check out this fork for regular updates and new features: https://github.com/ndu2/gitlab-time-tracker
 - [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) - 🏗 Specialized configuration as a code tool for GitLab
@@ -514,7 +514,7 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
-- [jreisinger/checkip](https://github.com/jreisinger/checkip) - Get (security) info about IP addresses
+- [go-monk/checkip](https://github.com/go-monk/checkip) - Get (security) info about IP addresses
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [adammck/terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
@@ -596,6 +596,7 @@
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [ovh/venom](https://github.com/ovh/venom) - 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
@@ -1115,7 +1116,7 @@
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor).
-- [jreisinger/checkip](https://github.com/jreisinger/checkip) - Get (security) info about IP addresses
+- [go-monk/checkip](https://github.com/go-monk/checkip) - Get (security) info about IP addresses
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
