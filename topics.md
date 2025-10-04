@@ -129,6 +129,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [vagrant](#vagrant)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1266,6 +1267,10 @@
 ## vagrant 
 
 - [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
+
+## visualization 
+
+- [pawelrychlik/jira-dependency-graph](https://github.com/pawelrychlik/jira-dependency-graph) - Graph visualizer for JIRA tickets' dependencies
 
 ## vpn 
 
