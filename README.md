@@ -116,7 +116,7 @@
 - [seknox/trasa](https://github.com/seknox/trasa) - Zero Trust Service Access
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [teslamotors/ansible_puller](https://github.com/teslamotors/ansible_puller) - Ansible daemon for massively-scaleable Ansible
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 - [openshift/enhancements](https://github.com/openshift/enhancements) - Enhancements tracking repository for OKD
 - [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for misconfigured S3 buckets across S3-compatible APIs!
 - [vmware/pinniped](https://github.com/vmware/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
@@ -277,7 +277,7 @@
 
 ## Python 
 
-- [shotgun-sh/shotgun](https://github.com/shotgun-sh/shotgun) - The Shotgun CLI
+- [shotgun-sh/shotgun](https://github.com/shotgun-sh/shotgun) - Spec Driven Development 🤠 Write codebase-aware specs for AI coding agents so they don't derail.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
@@ -447,6 +447,7 @@
 
 ## TypeScript 
 
+- [sighupio/gatekeeper-policy-manager](https://github.com/sighupio/gatekeeper-policy-manager) - A simple to use web-based OPA Gatekeeper policy manager
 - [anakzr/backstage-plugin-library-check](https://github.com/anakzr/backstage-plugin-library-check) - Check the status of project libraries based on main registries.
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
