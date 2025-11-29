@@ -6,6 +6,7 @@
 ## Contents
 
 - [3d](#3d)
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [angular](#angular)
@@ -27,6 +28,7 @@
 - [code](#code)
 - [code-review](#code-review)
 - [coding](#coding)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [config](#config)
@@ -56,6 +58,7 @@
 - [golang](#golang)
 - [google](#google)
 - [google-cloud](#google-cloud)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacking-tools](#hacking-tools)
 - [hacktoberfest](#hacktoberfest)
@@ -144,6 +147,11 @@
 ## 3d 
 
 - [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
+
+## agent 
+
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## ai 
 
@@ -348,6 +356,16 @@
 ## coding 
 
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
+
+## command-line 
+
+- [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+- [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
+- [ovh/venom](https://github.com/ovh/venom) - 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 
 ## compiler 
 
@@ -569,6 +587,11 @@
 ## google-cloud 
 
 - [electrolux-oss/infrawallet](https://github.com/electrolux-oss/infrawallet) - Backstage plugin that controls your cloud costs just in the way how you control your bank accounts
+
+## gui 
+
+- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
+- [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and Express
 
 ## hacking 
 
@@ -843,8 +866,9 @@
 
 ## others 
 
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [anakzr/backstage-plugin-library-check](https://github.com/anakzr/backstage-plugin-library-check) - Check the status of project libraries based on main registries.
-- [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
+- [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [TRIMM/plugin-dependencytrack](https://github.com/TRIMM/plugin-dependencytrack) - Plugin for retrieving Dependencytrack metrics in Backstage
