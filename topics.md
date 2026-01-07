@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [agent](#agent)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
@@ -108,6 +109,7 @@
 - [project-management](#project-management)
 - [python](#python)
 - [python3](#python3)
+- [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [rest-api](#rest-api)
@@ -166,6 +168,10 @@
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+
+## ai-agents 
+
+- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: AI-Powered Personalized Learning Assistant"
 
 ## angular 
 
@@ -1124,6 +1130,10 @@
 - [pawelrychlik/jira-dependency-graph](https://github.com/pawelrychlik/jira-dependency-graph) - Graph visualizer for JIRA tickets' dependencies
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [FKLC/AnyAPI](https://github.com/FKLC/AnyAPI) - AnyAPI is a library that helps you to write any API wrapper with ease and in pythonic way.
+
+## rag 
+
+- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: AI-Powered Personalized Learning Assistant"
 
 ## raspberry-pi 
 
