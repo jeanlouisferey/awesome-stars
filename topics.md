@@ -139,6 +139,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [vagrant](#vagrant)
+- [video](#video)
 - [visualization](#visualization)
 - [vpn](#vpn)
 - [vuejs](#vuejs)
@@ -1338,6 +1339,10 @@
 ## vagrant 
 
 - [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
+
+## video 
+
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 
 ## visualization 
 
