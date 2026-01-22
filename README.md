@@ -359,7 +359,7 @@
 - [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [arthepsy/ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
-- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python Applications
+- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [apoletics/ansible-network-check](https://github.com/apoletics/ansible-network-check) - ansible-network-check
 - [kyhau/ssllabs-scan](https://github.com/kyhau/ssllabs-scan) - A simple Python script that calls SSL Labs API to do SSL testings on servers and create a report in html.
