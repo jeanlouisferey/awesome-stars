@@ -285,7 +285,7 @@
 - [Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner) - web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
 - [shotgun-sh/shotgun](https://github.com/shotgun-sh/shotgun) - Spec Driven Development 🤠 Write codebase-aware specs for AI coding agents so they don't derail.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio.
+- [LuckyOne7777/LLM-Trading-Lab](https://github.com/LuckyOne7777/LLM-Trading-Lab) - This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
