@@ -489,7 +489,7 @@
 - [redhat-developer/rhdh](https://github.com/redhat-developer/rhdh) - The repo formerly known as janus-idp/backstage-showcase
 - [mharrvic/backstage-cloudrun-terraform](https://github.com/mharrvic/backstage-cloudrun-terraform) - Backstage deploy with Cloud Run via Terraform
 - [keptn-sandbox/backstage-plugin-keptn](https://github.com/keptn-sandbox/backstage-plugin-keptn) - Backstage plugin for Keptn
-- [drodil/backstage-plugin-qeta](https://github.com/drodil/backstage-plugin-qeta) - Q&A is a Backstage plugin that allows asking and answering questions within Backstage
+- [drodil/backstage-plugin-qeta](https://github.com/drodil/backstage-plugin-qeta) - Internal Q&A and knowledge base for Backstage. Empower teams to share knowledge, ask questions, and integrate AI-powered answers directly into their developer portal.
 - [K-Phoen/backstage-plugin-announcements](https://github.com/K-Phoen/backstage-plugin-announcements) - Announcements plugin for Backstage
 - [cloud-carbon-footprint/ccf-backstage-plugin](https://github.com/cloud-carbon-footprint/ccf-backstage-plugin) - The CCF Backstage Plugin is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage that is meant to be consumed as a plugin into a Backstage app
 - [thefrontside/playhouse](https://github.com/thefrontside/playhouse) - Frontside's Backstage Portal
