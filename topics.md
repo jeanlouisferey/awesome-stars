@@ -499,6 +499,7 @@
 
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Architecture Decision Records (ADR) management and publication tool
 - [fralau/mkdocs-macros-plugin](https://github.com/fralau/mkdocs-macros-plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
+- [drodil/backstage-plugin-qeta](https://github.com/drodil/backstage-plugin-qeta) - Internal Q&A and knowledge base for Backstage. Empower teams to share knowledge, ask questions, and integrate AI-powered answers directly into their developer portal.
 - [zachhannum/mkdocs-autolinks-plugin](https://github.com/zachhannum/mkdocs-autolinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
 - [Neoteroi/mkdocs-plugins](https://github.com/Neoteroi/mkdocs-plugins) - Plugins for MkDocs.
 - [orzih/mkdocs-with-pdf](https://github.com/orzih/mkdocs-with-pdf) - Generate a single PDF file from MkDocs repository.
@@ -648,7 +649,7 @@
 - [immobiliare/backstage-plugin-gitlab](https://github.com/immobiliare/backstage-plugin-gitlab) - Backstage plugins to interact with GitLab
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [datolabs-io/terraform-provider-backstage](https://github.com/datolabs-io/terraform-provider-backstage) - Backstage provider for Terraform
-- [drodil/backstage-plugin-qeta](https://github.com/drodil/backstage-plugin-qeta) - Q&A is a Backstage plugin that allows asking and answering questions within Backstage
+- [drodil/backstage-plugin-qeta](https://github.com/drodil/backstage-plugin-qeta) - Internal Q&A and knowledge base for Backstage. Empower teams to share knowledge, ask questions, and integrate AI-powered answers directly into their developer portal.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [telekom-mms/ansible-bad-and-good-practices](https://github.com/telekom-mms/ansible-bad-and-good-practices) - A collection of good and bad Ansible code examples
