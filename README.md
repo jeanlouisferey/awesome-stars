@@ -302,7 +302,6 @@
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [electrolux-oss/aws-cost-exporter](https://github.com/electrolux-oss/aws-cost-exporter) - Exposing AWS cost information as standard Prometheus metrics.
 - [electrolux-oss/azure-cost-exporter](https://github.com/electrolux-oss/azure-cost-exporter) - Exposing Azure cost information as standard Prometheus metrics.
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [backstage/mkdocs-techdocs-core](https://github.com/backstage/mkdocs-techdocs-core) - The core MkDocs plugin used by Backstage's TechDocs as a wrapper around multiple MkDocs plugins and Python Markdown extensions
@@ -360,7 +359,7 @@
 - [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [arthepsy/ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
-- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python
+- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python. Lives inside your Python process. Quick setup. No server. Runs in notebooks, apps, even your browser.
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [apoletics/ansible-network-check](https://github.com/apoletics/ansible-network-check) - ansible-network-check
 - [kyhau/ssllabs-scan](https://github.com/kyhau/ssllabs-scan) - A simple Python script that calls SSL Labs API to do SSL testings on servers and create a report in html.
@@ -472,6 +471,7 @@
 - [seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins) - SeatGeek Backstage Plugins Collection
 - [tduniec/backstage-timesaver-plugin](https://github.com/tduniec/backstage-timesaver-plugin) - This plugin provides an implementation of charts and statistics related to your time savings that are coming from usage of your templates. Plugins is built from frontend and backend part. This part of
 - [premisedata/dynamic-data-form-extension](https://github.com/premisedata/dynamic-data-form-extension) - Backstage Plugin - Dynamic Data Form Extension (Frontend and Backend Plugins)
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [Parsifal-M/backstage-opa-plugins](https://github.com/Parsifal-M/backstage-opa-plugins) - Open Policy Agent (OPA) Plugins for Backstage
 - [RSC-Labs/backstage-changelog-plugin](https://github.com/RSC-Labs/backstage-changelog-plugin) - ChangeLog plugin for Backstage which provides possibility to read and view change log of component in Software Catalog
 - [sammbetts/backstage-plugin-service-health](https://github.com/sammbetts/backstage-plugin-service-health) - A plugin for Backstage to display and notify of third party service incidents
