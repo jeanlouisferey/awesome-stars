@@ -430,7 +430,7 @@
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python
+- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python. Lives inside your Python process. Quick setup. No server. Runs in notebooks, apps, even your browser.
 
 ## deployment 
 
@@ -774,7 +774,7 @@
 
 ## library 
 
-- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python
+- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python. Lives inside your Python process. Quick setup. No server. Runs in notebooks, apps, even your browser.
 
 ## linux 
 
@@ -896,7 +896,7 @@
 
 ## nosql 
 
-- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python
+- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python. Lives inside your Python process. Quick setup. No server. Runs in notebooks, apps, even your browser.
 
 ## numpy 
 
@@ -1145,7 +1145,7 @@
 - [aker-gateway/Aker](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver
 - [nbeguier/certificate_easy](https://github.com/nbeguier/certificate_easy) - Certificate reader and creater via CLI
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
-- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python
+- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python. Lives inside your Python process. Quick setup. No server. Runs in notebooks, apps, even your browser.
 - [haidaraM/ansible-playbook-grapher](https://github.com/haidaraM/ansible-playbook-grapher) - A command line tool to create a graph representing your Ansible playbook tasks and roles
 - [mitogen-hq/mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python
 - [pallets/itsdangerous](https://github.com/pallets/itsdangerous) - Safely pass trusted data to untrusted environments and back.
