@@ -98,6 +98,7 @@
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) - The missing reverse proxy for ssh scp
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
+- [lukechilds/reverse-shell](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
 - [devops-works/binenv](https://github.com/devops-works/binenv) - One binary to rule them all. Manage all those pesky binaries (kubectl, helm, terraform, ...) easily.
@@ -195,7 +196,6 @@
 - [RoadieHQ/sample-service](https://github.com/RoadieHQ/sample-service) - A sample service for testing build tools, testing Backstage etc.
 - [RoadieHQ/backstage-entity-validator](https://github.com/RoadieHQ/backstage-entity-validator) - Validate properties and well known annotations in your Backstage catalog-info.yaml files.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
-- [lukechilds/reverse-shell](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [kriskbx/gitlab-time-tracker](https://github.com/kriskbx/gitlab-time-tracker) - 🦊🕘 A command line interface for GitLab's time tracking feature. Check out this fork for regular updates and new features: https://github.com/ndu2/gitlab-time-tracker
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
