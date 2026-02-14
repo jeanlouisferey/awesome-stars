@@ -76,7 +76,6 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [learning](#learning)
-- [library](#library)
 - [linux](#linux)
 - [llm](#llm)
 - [login](#login)
@@ -774,10 +773,6 @@
 ## learning 
 
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-
-## library 
-
-- [arun1729/cog](https://github.com/arun1729/cog) - Embedded Graph Database for Python. Lives inside your Python process. Quick setup. No server. Runs in notebooks, apps, even your browser.
 
 ## linux 
 
