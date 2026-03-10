@@ -453,6 +453,7 @@
 
 ## TypeScript 
 
+- [tgrall/copilot-metrics-tools](https://github.com/tgrall/copilot-metrics-tools) - Copilot Metrics Dashboard, and Scripts
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [PackmindHub/context-evaluator](https://github.com/PackmindHub/context-evaluator) - Evaluator context and documentation setup for ai coding agents
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
