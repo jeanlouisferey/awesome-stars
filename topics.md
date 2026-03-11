@@ -1014,7 +1014,7 @@
 - [ultrabug/mkdocs-static-i18n](https://github.com/ultrabug/mkdocs-static-i18n) - MkDocs i18n plugin using static translation markdown files
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
-- [opentelekomcloud/terraform-provider-opentelekomcloud](https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud) - Terraform OpenTelekomCloud provider
+- [opentelekomcloud/terraform-provider-opentelekomcloud](https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud) - Terraform T Cloud Public (OpenTelekomCloud) provider
 - [anxstj/ansible-create-roles-overview](https://github.com/anxstj/ansible-create-roles-overview) - Create a roles overview page for all Ansible roles/playbooks in Gitlab
 - [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
