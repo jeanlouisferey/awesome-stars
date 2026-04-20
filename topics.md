@@ -977,7 +977,7 @@
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [PackmindHub/context-evaluator](https://github.com/PackmindHub/context-evaluator) - Evaluator context and documentation setup for ai coding agents
 - [pawamoy/mkdocs-llmstxt](https://github.com/pawamoy/mkdocs-llmstxt) - MkDocs plugin to generate an /llms.txt file (https://llmstxt.org/).
-- [williamzujkowski/strudel-mcp-server](https://github.com/williamzujkowski/strudel-mcp-server) - A Model Context Protocol (MCP) server that gives Claude direct control over Strudel.cc for AI-assisted music generation and live coding.
+- [williamzujkowski/live-coding-music-mcp](https://github.com/williamzujkowski/live-coding-music-mcp) - A Model Context Protocol (MCP) server that gives Claude direct control over Strudel.cc for AI-assisted music generation and live coding.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [anakzr/backstage-plugin-library-check](https://github.com/anakzr/backstage-plugin-library-check) - Check the status of project libraries based on main registries.
 - [LuckyOne7777/LLM-Trading-Lab](https://github.com/LuckyOne7777/LLM-Trading-Lab) - This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio.
