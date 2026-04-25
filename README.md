@@ -241,6 +241,7 @@
 
 ## Others 
 
+- [anthropics/claude-code-monitoring-guide](https://github.com/anthropics/claude-code-monitoring-guide) - 
 - [Parsifal-M/backstage-opa-policy-gen](https://github.com/Parsifal-M/backstage-opa-policy-gen) - Create Backstage OPA Policies
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
 - [cncf/landscape2-sites](https://github.com/cncf/landscape2-sites) - Landscape2 sites settings and deployment workflows
