@@ -978,6 +978,7 @@
 
 ## others 
 
+- [rajbos/ai-engineering-fluency](https://github.com/rajbos/ai-engineering-fluency) - VS Code Extension that shows information about the estimated token usage of GitHub Copilot
 - [anthropics/claude-code-monitoring-guide](https://github.com/anthropics/claude-code-monitoring-guide) - 
 - [chrisvoncsefalvay/claude-d3js-skill](https://github.com/chrisvoncsefalvay/claude-d3js-skill) - A Claude skill for d3.js.
 - [AlexandreGuil/devoxx-2026-spec-kit](https://github.com/AlexandreGuil/devoxx-2026-spec-kit) - Governance automatisee avec Spec-kit + 3 agents IA Claude — Devoxx France 2026
