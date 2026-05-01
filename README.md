@@ -194,6 +194,7 @@
 
 ## JavaScript 
 
+- [rajbos/ai-engineering-fluency](https://github.com/rajbos/ai-engineering-fluency) - VS Code Extension that shows information about the estimated token usage of GitHub Copilot
 - [chrisvoncsefalvay/claude-d3js-skill](https://github.com/chrisvoncsefalvay/claude-d3js-skill) - A Claude skill for d3.js.
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [dmicheneau/opencode-template-agent](https://github.com/dmicheneau/opencode-template-agent) - 
