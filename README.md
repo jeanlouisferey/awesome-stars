@@ -14,12 +14,12 @@
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
-- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
 - [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
@@ -182,10 +182,6 @@
 - [cncf/glossary](https://github.com/cncf/glossary) - The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://g
 - [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
 
-## JSON 
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-
 ## Java 
 
 - [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
@@ -232,6 +228,10 @@
 
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 
+## Markdown 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+
 ## Nunjucks 
 
 - [StageCentral/scaffolder-templates](https://github.com/StageCentral/scaffolder-templates) - 
@@ -242,6 +242,7 @@
 
 ## Others 
 
+- [google/agents-cli](https://github.com/google/agents-cli) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
 - [anthropics/claude-code-monitoring-guide](https://github.com/anthropics/claude-code-monitoring-guide) - 
 - [Parsifal-M/backstage-opa-policy-gen](https://github.com/Parsifal-M/backstage-opa-policy-gen) - Create Backstage OPA Policies
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
