@@ -491,7 +491,7 @@
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Architecture Decision Records (ADR) management and publication tool
 - [redhat-developer/rhdh-plugins](https://github.com/redhat-developer/rhdh-plugins) - Red Hat Developer Hub plugins
 - [dweber019/backstage-plugins](https://github.com/dweber019/backstage-plugins) - A collection of Backstage plugins
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [electrolux-oss/infrawallet](https://github.com/electrolux-oss/infrawallet) - Backstage plugin that controls your cloud costs just in the way how you control your bank accounts
 - [pehlicd/rbac-wizard](https://github.com/pehlicd/rbac-wizard) - RBAC Wizard is an intuitive UI tool for visualizing Kubernetes RBAC resources.
 - [Parsifal-M/backstage-open-feedback](https://github.com/Parsifal-M/backstage-open-feedback) - Feedback Plugin for Backstage
