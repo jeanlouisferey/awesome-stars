@@ -1006,6 +1006,8 @@
 
 ## others 
 
+- [flowstash/apiCrawl](https://github.com/flowstash/apiCrawl) - Crawl any API Specs and provide it for your agent
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)
 - [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [rajbos/ai-engineering-fluency](https://github.com/rajbos/ai-engineering-fluency) - Extension that shows information about the estimated token usage and more of AI in editors/CLI's
