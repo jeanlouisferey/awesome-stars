@@ -1047,6 +1047,7 @@
 
 ## others 
 
+- [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) - AI coding jargon, explained in plain English.
 - [flowstash/apiCrawl](https://github.com/flowstash/apiCrawl) - Crawl any API Specs and provide it for your agent
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported)
 - [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
