@@ -594,6 +594,7 @@
 
 ## documentation 
 
+- [zensical/studio](https://github.com/zensical/studio) - Zensical Studio – Refactor documentation like code
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Architecture Decision Records (ADR) management and publication tool
 - [fralau/mkdocs-macros-plugin](https://github.com/fralau/mkdocs-macros-plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
 - [drodil/backstage-plugin-qeta](https://github.com/drodil/backstage-plugin-qeta) - Internal Q&A and knowledge base for Backstage. Empower teams to share knowledge, ask questions, and integrate AI-powered answers directly into their developer portal.
