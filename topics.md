@@ -1059,6 +1059,7 @@
 
 ## others 
 
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 - [andrewyng/openworker](https://github.com/andrewyng/openworker) - 
 - [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) - AI coding jargon, explained in plain English.
 - [flowstash/apiCrawl](https://github.com/flowstash/apiCrawl) - Crawl any API Specs and provide it for your agent
