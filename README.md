@@ -70,6 +70,7 @@
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
+- [sighupio/gatekeeper-policy-manager](https://github.com/sighupio/gatekeeper-policy-manager) - A simple to use web-based OPA Gatekeeper policy manager
 - [obot-platform/obot](https://github.com/obot-platform/obot) - Complete AI Governance Platform from Obot AI
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [einride/backstage-go](https://github.com/einride/backstage-go) - Backstage SDK for Go
@@ -295,7 +296,7 @@
 - [andrewyng/openworker](https://github.com/andrewyng/openworker) - 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
 - [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli) - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen
 - [google/agents-cli](https://github.com/google/agents-cli) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
@@ -489,7 +490,6 @@
 - [PackmindHub/context-evaluator](https://github.com/PackmindHub/context-evaluator) - Evaluator context and documentation setup for ai coding agents
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [williamzujkowski/live-coding-music-mcp](https://github.com/williamzujkowski/live-coding-music-mcp) - A Model Context Protocol (MCP) server that gives Claude direct control over Strudel.cc for AI-assisted music generation and live coding.
-- [sighupio/gatekeeper-policy-manager](https://github.com/sighupio/gatekeeper-policy-manager) - A simple to use web-based OPA Gatekeeper policy manager
 - [anakzr/backstage-plugin-library-check](https://github.com/anakzr/backstage-plugin-library-check) - Check the status of project libraries based on main registries.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [TRIMM/plugin-dependencytrack](https://github.com/TRIMM/plugin-dependencytrack) - Plugin for retrieving Dependencytrack metrics in Backstage
