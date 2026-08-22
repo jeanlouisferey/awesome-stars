@@ -866,7 +866,7 @@
 - [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
-- [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code.
+- [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code. (Read-only Mirror)
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 - [vmware/pinniped](https://github.com/vmware/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
 - [OpenCSPM/opencspm](https://github.com/OpenCSPM/opencspm) - Open Cloud Security Posture Management Engine
