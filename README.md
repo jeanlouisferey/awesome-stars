@@ -149,6 +149,7 @@
 - [kptdev/kpt](https://github.com/kptdev/kpt) - Automate Kubernetes Configuration Editing
 - [fluxcd/flux](https://github.com/fluxcd/flux) - Successor: https://github.com/fluxcd/flux2
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
@@ -266,7 +267,6 @@
 - [f5devcentral/ansible-role-backup_config](https://github.com/f5devcentral/ansible-role-backup_config) - Ansible role for backup of running configurations from F5 devices
 - [ansible-collections/overview](https://github.com/ansible-collections/overview) - Collections overview, how to request a namespace
 - [krisnova/falco-rules](https://github.com/krisnova/falco-rules) - My Falco Rules
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [alexbrand/gangway-dex-tutorial](https://github.com/alexbrand/gangway-dex-tutorial) - Using Gangway and Dex for authenticating with your Kubernetes cluster
 - [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
 - [nilbuild/design-patterns-for-humans](https://github.com/nilbuild/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
