@@ -321,6 +321,7 @@
 - [paullockaby/enphase-proxy](https://github.com/paullockaby/enphase-proxy) - A proxy for accessing the Enphase Envoy local API.
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 - [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities s
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Give it your resume, get the jobs that fit, select them and apply. Runs in your terminal, with a browser you can watch.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [tsaxon13/GitlabUserAudit](https://github.com/tsaxon13/GitlabUserAudit) - Create list of gitlab users that have access to projects and subgroups under a top level group
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude t
@@ -506,7 +507,6 @@
 - [redhat-developer/rhdh-plugins](https://github.com/redhat-developer/rhdh-plugins) - Red Hat Developer Hub plugins
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [dweber019/backstage-plugins](https://github.com/dweber019/backstage-plugins) - A collection of Backstage plugins
-- [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) - Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [electrolux-oss/infrawallet](https://github.com/electrolux-oss/infrawallet) - Backstage plugin that controls your cloud costs just in the way how you control your bank accounts
 - [pehlicd/rbac-wizard](https://github.com/pehlicd/rbac-wizard) - RBAC Wizard is an intuitive UI tool for visualizing Kubernetes RBAC resources.
