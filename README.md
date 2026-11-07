@@ -321,7 +321,7 @@
 - [paullockaby/enphase-proxy](https://github.com/paullockaby/enphase-proxy) - A proxy for accessing the Enphase Envoy local API.
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 - [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities s
-- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - An AI web agent that applies to jobs for you while you sleep.
+- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - AI job application bot: automated job search and job hunting, auto-apply to resume-matching jobs while you sleep.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [tsaxon13/GitlabUserAudit](https://github.com/tsaxon13/GitlabUserAudit) - Create list of gitlab users that have access to projects and subgroups under a top level group
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude t
