@@ -1096,7 +1096,7 @@
 - [flowstash/apiCrawl](https://github.com/flowstash/apiCrawl) - Crawl any API Specs and provide it for your agent
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser 
 - [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
-- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.
 - [rajbos/ai-engineering-fluency](https://github.com/rajbos/ai-engineering-fluency) - Extension that shows information about the estimated token usage and more of AI in editors/CLI's
 - [anthropics/claude-code-monitoring-guide](https://github.com/anthropics/claude-code-monitoring-guide) - 
 - [chrisvoncsefalvay/claude-d3js-skill](https://github.com/chrisvoncsefalvay/claude-d3js-skill) - A Claude skill for d3.js.
